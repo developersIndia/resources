@@ -1,9 +1,11 @@
 # Developers India Wiki
 > The Developers India Wiki for some cool & useful resources.
 
-![Rs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
-[![open-source-love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges)
 
+![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
+[![open-source-love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges)
+[![GitHub license](https://img.shields.io/github/license/developersIndia/wiki)](https://github.com/developersIndia/wiki/blob/master/LICENSE)
+![Discord](https://img.shields.io/discord/669880381649977354?color=blue)
 
 ### [A-to-Z Resources for students](https://github.com/dipakkr/A-to-Z-Resources-for-Students)
 Find below some of the best and popular links for learning new technologies/programming languages.
@@ -196,5 +198,8 @@ Find below some of the best and popular links for learning new technologies/prog
 - [Computer-Science-Resources](https://github.com/the-akira/Computer-Science-Resources.git)
 - [every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know)
 - [97 Things Every Programmer Should Know](https://97-things-every-x-should-know.gitbooks.io/97-things-every-programmer-should-know/en/)
+
+
+# Connect With Us
 
 
