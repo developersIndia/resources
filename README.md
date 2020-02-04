@@ -5,9 +5,9 @@
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
 [![open-source-love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges)
 [![GitHub license](https://img.shields.io/github/license/developersIndia/wiki)](https://github.com/developersIndia/wiki/blob/master/LICENSE)
-![Discord](https://img.shields.io/discord/669880381649977354?color=blue)
+[![Discord](https://img.shields.io/discord/669880381649977354?color=blue)](https://discordapp.com/invite/MKXMSNC)
 
-### [A-to-Z Resources for students](https://github.com/dipakkr/A-to-Z-Resources-for-Students)
+
 Find below some of the best and popular links for learning new technologies/programming languages.
 
 ## C
@@ -200,6 +200,10 @@ Find below some of the best and popular links for learning new technologies/prog
 - [97 Things Every Programmer Should Know](https://97-things-every-x-should-know.gitbooks.io/97-things-every-programmer-should-know/en/)
 
 
-# Connect With Us
+# 📜 License
 
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
+# 👋 Contributing
+
+Please read the [CONTRIBUTING](CONTRIBUTING.md) guidelines for the process of submitting pull requests to us.
