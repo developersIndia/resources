@@ -7,7 +7,7 @@
 [![GitHub license](https://img.shields.io/github/license/developersIndia/wiki)](https://github.com/developersIndia/wiki/blob/master/LICENSE)
 [![Discord](https://img.shields.io/discord/669880381649977354?color=blue)](https://discordapp.com/invite/MKXMSNC)
 [![Subreddit subscribers](https://img.shields.io/reddit/subreddit-subscribers/developersIndia?style=social)](https://www.reddit.com/r/developersIndia/)
-![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fintent%2Ftweet%3Furl%3Dhttps%3A%2F%2Fgithub.com%2FdevelopersIndia%2Fwiki%26text%3DThe%2520Developers%2520India%2520Wiki%2520is%2520full%2520of%2520cool%2520resources%2520to%2520learn%2520new%2520things)
+[![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fintent%2Ftweet%3Furl%3Dhttps%3A%2F%2Fgithub.com%2FdevelopersIndia%2Fwiki%26text%3DThe%2520Developers%2520India%2520Wiki%2520is%2520full%2520of%2520cool%2520resources%2520to%2520learn%2520new%2520things)](https://twitter.com/intent/tweet?url=https://github.com/developersIndia/wiki&text=Developers%20India%20Wiki%20has%20some%20cool%20resources%20!!)
 
 Find below some of the best and popular resources for learning new technologies/programming languages.
 
