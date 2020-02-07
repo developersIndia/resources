@@ -86,9 +86,12 @@ Find below some of the best and popular resources for learning new technologies/
 
 -  **Node.JS**
     - [The Complete Node.js Developer Course | UDEMY](https://www.udemy.com/the-complete-nodejs-developer-course-2/) -- **PAID**
-    - [Express web framework (Node.js/JavaScript)](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs)
     - [Introduction to NodeJS by Microsoft](https://www.edx.org/course/introduction-to-nodejs)
     - [Getting started with NodeJS by freeCodeCamp](https://guide.freecodecamp.org/miscellaneous/get-started-with-nodejs/)
+    - [Express web framework (Node.js/JavaScript)](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs)  
+    - [Nodeschool - Interactive tutorials](https://nodeschool.io/)  
+    - [You Don't Know Node - Gain in-depth understanding of how Node.JS operates](https://node.university/p/you-dont-know-node)
+    
     
 ## Front-End Web Development
 
@@ -99,7 +102,13 @@ Find below some of the best and popular resources for learning new technologies/
      - [Famous GitHub Repos](https://medium.mybridge.co/react-js-open-source-for-the-past-year-2018-a7c553902010)
      - [PAID but Worth it | UDEMY](https://www.udemy.com/react-the-complete-guide-incl-redux/) -- **PAID**
      - [Orignal Docs](https://reactjs.org/docs/hello-world.html)
-
+  
+- **Vue.js**
+     - [Vue.js 2.0 Fundamentals - Youtube Playlist](https://www.youtube.com/playlist?list=PLwAKR305CRO_1yAao-8aZiQnBqJeyng4O)
+     - [Getting started with Vue](https://sabe.io/tutorials/getting-started-with-vue-js)
+     - [PAID but Worth it | UDEMY](https://www.udemy.com/course/vuejs-2-the-complete-guide/) -- **PAID**
+     - [Official guide](https://vuejs.org/v2/guide/)
+  
 - **CSS**
      - [The Ultimate Guide To Learning CSS](https://zendev.com/ultimate-guide-to-learning-css.html)
 
