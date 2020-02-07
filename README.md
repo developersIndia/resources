@@ -86,9 +86,12 @@ Find below some of the best and popular resources for learning new technologies/
 
 -  **Node.JS**
     - [The Complete Node.js Developer Course | UDEMY](https://www.udemy.com/the-complete-nodejs-developer-course-2/) -- **PAID**
+    - [Introduction to NodeJS by Microsoft](https://www.edx.org/course/introduction-to-nodejs)
+    - [Getting started with NodeJS by freeCodeCamp](https://guide.freecodecamp.org/miscellaneous/get-started-with-nodejs/)
     - [Express web framework (Node.js/JavaScript)](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs)  
     - [Nodeschool - Interactive tutorials](https://nodeschool.io/)  
     - [You Don't Know Node - Gain in-depth understanding of how Node.JS operates](https://node.university/p/you-dont-know-node)
+    
     
 ## Front-End Web Development
 
