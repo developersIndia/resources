@@ -1,13 +1,12 @@
 # Developers India Wiki
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
+
 > The Developers India Wiki for some cool & useful resources.
 
 
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
 [![open-source-love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges)
 [![GitHub license](https://img.shields.io/github/license/developersIndia/wiki)](https://github.com/developersIndia/wiki/blob/master/LICENSE)
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-purple.svg)](#contributors-)
 [![Discord](https://img.shields.io/discord/669880381649977354?color=blue)](https://discordapp.com/invite/MKXMSNC)
 [![Subreddit subscribers](https://img.shields.io/reddit/subreddit-subscribers/developersIndia?style=social)](https://www.reddit.com/r/developersIndia/)
 [![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fintent%2Ftweet%3Furl%3Dhttps%3A%2F%2Fgithub.com%2FdevelopersIndia%2Fwiki%26text%3DThe%2520Developers%2520India%2520Wiki%2520is%2520full%2520of%2520cool%2520resources%2520to%2520learn%2520new%2520things)](https://twitter.com/intent/tweet?url=https://github.com/developersIndia/wiki&text=Developers%20India%20Wiki%20has%20some%20cool%20resources%20!!)
