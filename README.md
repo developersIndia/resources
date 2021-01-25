@@ -117,6 +117,12 @@ Find below some of the best and popular resources for learning new technologies/
      - [PAID but Worth it | UDEMY](https://www.udemy.com/course/vuejs-2-the-complete-guide/) -- **PAID**
      - [Official guide](https://vuejs.org/v2/guide/)
   
+- **Angular**
+     - [FreeCodeCamp full course on YouTube](https://www.youtube.com/watch?v=2OHbjep_WjQ&t=3774s)
+     - [PAID but Worth it | UDEMY](https://www.udemy.com/course/the-complete-guide-to-angular-2/) -- **PAID**
+     - [Official Tutorial](https://angular.io/tutorial)
+     - [Official Docs](https://angular.io/docs)
+  
 - **CSS**
      - [The Ultimate Guide To Learning CSS](https://zendev.com/ultimate-guide-to-learning-css.html)
 
