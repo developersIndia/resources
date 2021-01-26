@@ -103,6 +103,18 @@ Find below some of the best and popular resources for learning new technologies/
     
 ## Front-End Web Development
 
+[MDN's official front-end web developer learning pathway](https://developer.mozilla.org/en-US/docs/Learn/Front-end_web_developer) is a good starting point for learning front-end web development.
+  
+- **CSS**
+     - [The Ultimate Guide To Learning CSS](https://zendev.com/ultimate-guide-to-learning-css.html)
+     - [MDN's Guide To Learning CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS)
+     - [FreeCodeCamp course for JS](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/)
+  
+- **Javascript**
+     - [MDN's Guide to Learning JS](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)
+     - [Google OpenClassroom for JS](https://learndigital.withgoogle.com/digitalgarage/course/learn-programming-with-javascript)
+     - [FreeCodeCamp course for JS](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/)
+
 - **React.js**
      - [Video Tutorials - Beginner to Intermediate](https://www.youtube.com/watch?v=JPT3bFIwJYA&list=PL55RiY5tL51oyA8euSROLjMFZbXaV7skS)
      - [FreeCodeCamp Articles](https://medium.freecodecamp.org/search?q=react)
@@ -123,9 +135,6 @@ Find below some of the best and popular resources for learning new technologies/
      - [Official Tutorial](https://angular.io/tutorial)
      - [Official Docs](https://angular.io/docs)
   
-- **CSS**
-     - [The Ultimate Guide To Learning CSS](https://zendev.com/ultimate-guide-to-learning-css.html)
-
 ##  **Data Structures**
 - [Coding Interview University - Github](https://github.com/jwasham/coding-interview-university) -  **Strongly Recommended to learn DS and Computer Science fundamentals**
 
