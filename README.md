@@ -65,7 +65,7 @@ Find below some of the best and popular resources for learning new technologies/
     * [Real Python Tutorials](https://realpython.com/)
     * [Learn Python - CodeAcademy](https://www.codecademy.com/learn/learn-python)
     * [PyBites](https://pybit.es/) - **Python 3 Challenges**
-    * [Progate Python Classes](https://progate.com/languages/python) - **Good for absolute begineers**
+    * [Progate Python Classes](https://progate.com/languages/python) - **Good for absolute beginners**
     * [Intro to Python - Udacity - Free course](https://in.udacity.com/course/introduction-to-python--ud1110-india) 
     * [Google Python class](https://developers.google.com/edu/python/)
     * [Python tutorials](https://pythonspot.com/) - **Tutorials for beginners in Python with (examples)**
@@ -213,6 +213,15 @@ Find below some of the best and popular resources for learning new technologies/
 * [The Great Tree List Recursion Problem](http://cslibrary.stanford.edu/109/TreeListRecursion.pdf) (PDF)
 * [Think Complexity](http://greenteapress.com/complexity/) (PDF)
 
+## GitHub Repos
+- [Project Based Learning] (https://github.com/tuvtran/project-based-learning)
+- [Build your own X] (https://github.com/danistefanovic/build-your-own-x)
+- [papers-we-love] (https://github.com/papers-we-love/papers-we-love)
+- [Algorithms Explanations] (https://github.com/TheAlgorithms/Algorithms-Explanation)
+- [Design and Development guides] (https://github.com/NARKOZ/guides)
+- [Awesome] (https://github.com/sindresorhus/awesome)
+- [Images Datasets] (https://github.com/unsplash/datasets)
+
 ## Miscellaneous
 
 - [How HTTPS Works](https://howhttps.works/)
@@ -224,6 +233,12 @@ Find below some of the best and popular resources for learning new technologies/
 - [Computer-Science-Resources](https://github.com/the-akira/Computer-Science-Resources.git)
 - [every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know)
 - [97 Things Every Programmer Should Know](https://97-things-every-x-should-know.gitbooks.io/97-things-every-programmer-should-know/en/)
+- [step-by-step guide through the Fragment Shaders] (https://thebookofshaders.com/)
+- [Handbook for making Programming Languages] (http://craftinginterpreters.com/)
+- [Free Programming Books/Notes] (https://books.goalkicker.com/)
+- [Ray Tracing in one weekend series] (https://raytracing.github.io/)
+- [Free Linux books for beginners to advanced] (http://linux-training.be/)
+- [Rosetta Code] (https://rosettacode.org/wiki/Rosetta_Code)
 
 
 # 📜 License
