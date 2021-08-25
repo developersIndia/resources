@@ -84,6 +84,31 @@ Find below some of the best and popular resources for learning new technologies/
 -  [Path to Associate Android Developer](https://github.com/Amejia481/Associate-Android-Developer-Certification)
 -  [Android examples ](https://github.com/nisrulz/android-examples)
 -  [Flutter Examples ](https://github.com/nisrulz/flutter-examples) 
+ 
+## Computer Graphics
+- [Scratchapixel](https://www.scratchapixel.com/) (Article)
+- [Peter Shirley raytracing trilogy](https://raytracing.github.io/) (Books)
+- [Intro to CG](https://www.youtube.com/watch?v=TEAtmCYYKZA) (Video)
+- [Intro to CG 2](https://www.youtube.com/watch?v=cvcAjgMUPUA) (Video)
+- [University of Utah course](https://www.youtube.com/playlist?list=PLplnkTzzqsZTfYh4UbhLGpI5kGd5oW_Hh) (Video)
+- [Sebastian Lague](https://www.youtube.com/c/SebastianLague) (Interesting projects) (Video)
+- [Daniel shiffman](https://www.youtube.com/user/shiffman) (Creative coding) (Video)
+- [ThinMatrix](https://www.youtube.com/user/ThinMatrix) (Devlog) (Video)
+- [Acegimko](https://www.youtube.com/c/Acegikmo/playlists) (Maths and CG concepts) (Video)
+- [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw) (Maths) (Video)
+- [LearnOpenGL](https://learnopengl.com/) (You should only follow concepts here, not api) (Book/Article)
+ 
+Last but not least: write your own goddamned projects and learn from it.
+ 
+Advice: Try to use graphics abstraction instead of pure metal/opengl/vulkan/dx12
+ 
+Graphics abstraction: 
+ 
+- [Kinc](https://github.com/Kode/Kinc) (C/C++)
+- [Kha](https://github.com/Kode/Kha) (Haxe)
+- [Krom](https://github.com/Kode/Krom) (JS)
+- [bgfx](https://github.com/bkaradzic/bgfx) (C/C++)
+- [wgpu](https://github.com/gfx-rs/wgpu) (Rust)
 
 ## Backend Development
 
