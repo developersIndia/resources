@@ -77,6 +77,7 @@ Find below some of the best and popular resources for learning new technologies/
    * [thenewboston](https://www.youtube.com/watch?v=4Mf0h3HphEA&list=PLEA1FEF17E1E5C0DA)
    * [freecodecamp](https://www.youtube.com/watch?v=rfscVS0vtbw)
    * [Video Tutorial for absolute beginners - Youtube](http://bit.ly/2NkrsKh)
+   * [Corey Schafer - (Content focusing mostly on Python-related tutorials)](https://www.youtube.com/user/schafer5)
 
 ## Android Development
 -  [Udacity - Free courses & Nanodegree](https://udacity.com)
