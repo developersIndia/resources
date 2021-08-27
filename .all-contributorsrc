@@ -40,6 +40,15 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "Jarmos-san",
+      "name": "Somraj Saha",
+      "avatar_url": "https://avatars.githubusercontent.com/u/31373860?v=4",
+      "profile": "https://jarmos.netlify.app/",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7,
