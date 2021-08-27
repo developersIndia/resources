@@ -71,7 +71,6 @@ Find below some of the best and popular resources for learning new technologies/
     * [Python tutorials](https://pythonspot.com/) - **Tutorials for beginners in Python with (examples)**
     * [PyQt5 tutorial](http://zetcode.com/gui/pyqt5/) - **A tutorial for the Python wrapper of the Qt GUI framework**
     * [Python Patterns](https://python-patterns.guide/#python-patterns) - **Advanced**
-    * [CoreyMS - Corey Schafer's blog](https://coreyms.com/)
   
 *  **Youtube Tutorials**
    * [Edureka](https://www.youtube.com/watch?v=N0lxfilGfak&list=PL9ooVrP1hQOHY-BeYrKHDrHKphsJOyRyu)
