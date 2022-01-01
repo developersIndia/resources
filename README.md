@@ -2,7 +2,6 @@
 
 > The Developers India Wiki for some cool & useful resources.
 
-
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
 [![open-source-love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges)
 [![GitHub license](https://img.shields.io/github/license/developersIndia/wiki)](https://github.com/developersIndia/wiki/blob/master/LICENSE)
@@ -27,186 +26,190 @@ Find below some of the best and popular resources for learning new technologies/
 
 ## C++
 
-*  **Websites**
+* **Websites**
 
-   * [cppreference](https://en.cppreference.com/w/)
-   * [cplusplus](http://www.cplusplus.com/)
-   * [isocpp FAQ](https://isocpp.org/faq)
-   * [C++ 11 FAQ](http://www.stroustrup.com/C++11FAQ.html)
-   * [C++ Patterns](https://cpppatterns.com/)
+  * [cppreference](https://en.cppreference.com/w/)
+  * [cplusplus](http://www.cplusplus.com/)
+  * [isocpp FAQ](https://isocpp.org/faq)
+  * [C++ 11 FAQ](http://www.stroustrup.com/C++11FAQ.html)
+  * [C++ Patterns](https://cpppatterns.com/)
 
-*  **Youtube Tutorials**
+* **Youtube Tutorials**
 
-   * [thenewboston](https://www.youtube.com/watch?v=tvC1WCdV1XU&list=PLAE85DE8440AA6B83)
-   * [freecodecamp](https://www.youtube.com/watch?v=vLnPwxZdW4Y)
-   * [TheChernoProject](https://www.youtube.com/watch?v=18c3MTX0PK0&list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb)
-   * [DerekBanas](https://www.youtube.com/watch?v=DamuE8TM3xo&list=PLGLfVvz_LVvQ9S8YSV0iDsuEU8v11yP9M)
-   * [C++ Weekly - Jason Turner](https://www.youtube.com/playlist?list=PLs3KjaCtOwSZ2tbuV1hx8Xz-rFZTan2J1) - *Advanced*
+  * [thenewboston](https://www.youtube.com/watch?v=tvC1WCdV1XU&list=PLAE85DE8440AA6B83)
+  * [freecodecamp](https://www.youtube.com/watch?v=vLnPwxZdW4Y)
+  * [TheChernoProject](https://www.youtube.com/watch?v=18c3MTX0PK0&list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb)
+  * [DerekBanas](https://www.youtube.com/watch?v=DamuE8TM3xo&list=PLGLfVvz_LVvQ9S8YSV0iDsuEU8v11yP9M)
+  * [C++ Weekly - Jason Turner](https://www.youtube.com/playlist?list=PLs3KjaCtOwSZ2tbuV1hx8Xz-rFZTan2J1) - *Advanced*
 
-*  **Blogs**
+* **Blogs**
 
-    - [Simplify C++](https://arne-mertz.de/) - *Advanced*
-    - [Fluent C++](https://www.fluentcpp.com/) - *Advanced*
-    - [Bartek's Coding Blog](https://www.bfilipek.com/?m=1) - *Advanced*
-    - [Kenny Kerr](https://kennykerr.ca/articles/) - *Advanced*
-    - [Sutter’s Mill](https://herbsutter.com/gotw/) - *Advanced*
-    - [thoughts on cpp](https://thoughts-on-cpp.com/) - *Advanced*
-    - [Vorbrodt's C++ Blog](https://vorbrodt.blog/) - *Advanced*
-    - [foonathan::blog()](https://foonathan.net/index.html) - *Advanced*
-    - [vector<bool>{ true, true, false };](https://vector-of-bool.github.io/) - *Advanced*
-    
+  * [Simplify C++](https://arne-mertz.de/) - *Advanced*
+  * [Fluent C++](https://www.fluentcpp.com/) - *Advanced*
+  * [Bartek's Coding Blog](https://www.bfilipek.com/?m=1) - *Advanced*
+  * [Kenny Kerr](https://kennykerr.ca/articles/) - *Advanced*
+  * [Sutter’s Mill](https://herbsutter.com/gotw/) - *Advanced*
+  * [thoughts on cpp](https://thoughts-on-cpp.com/) - *Advanced*
+  * [Vorbrodt's C++ Blog](https://vorbrodt.blog/) - *Advanced*
+  * [foonathan::blog()](https://foonathan.net/index.html) - *Advanced*
+  * [vector&lt;bool&gt;{ true, true, false };](https://vector-of-bool.github.io/) - *Advanced*
+
 ## Python
 
-*  **Websites/Blogs**
+* **Websites/Blogs**
 
-    * [Python Docs](https://docs.python.org/3/tutorial/index.html)
-    * [Python Programming (by Harrison)](https://pythonprogramming.net/python-fundamental-tutorials/)
-    * [learnpython](https://www.learnpython.org/en/Hello%2C_World%21)
-    * [Real Python Tutorials](https://realpython.com/)
-    * [Learn Python - CodeAcademy](https://www.codecademy.com/learn/learn-python)
-    * [PyBites](https://pybit.es/) - **Python 3 Challenges**
-    * [Progate Python Classes](https://progate.com/languages/python) - **Good for absolute begineers**
-    * [Intro to Python - Udacity - Free course](https://in.udacity.com/course/introduction-to-python--ud1110-india) 
-    * [Google Python class](https://developers.google.com/edu/python/)
-    * [Python tutorials](https://pythonspot.com/) - **Tutorials for beginners in Python with (examples)**
-    * [PyQt5 tutorial](http://zetcode.com/gui/pyqt5/) - **A tutorial for the Python wrapper of the Qt GUI framework**
-    * [Python Patterns](https://python-patterns.guide/#python-patterns) - **Advanced**
+  * [Python Docs](https://docs.python.org/3/tutorial/index.html)
+  * [Python Programming (by Harrison)](https://pythonprogramming.net/python-fundamental-tutorials/)
+  * [learnpython](https://www.learnpython.org/en/Hello%2C_World%21)
+  * [Real Python Tutorials](https://realpython.com/)
+  * [Learn Python - CodeAcademy](https://www.codecademy.com/learn/learn-python)
+  * [PyBites](https://pybit.es/) - **Python 3 Challenges**
+  * [Progate Python Classes](https://progate.com/languages/python) - **Good for absolute begineers**
+  * [Intro to Python - Udacity - Free course](https://in.udacity.com/course/introduction-to-python--ud1110-india)
+  * [Google Python class](https://developers.google.com/edu/python/)
+  * [Python tutorials](https://pythonspot.com/) - **Tutorials for beginners in Python with (examples)**
+  * [PyQt5 tutorial](http://zetcode.com/gui/pyqt5/) - **A tutorial for the Python wrapper of the Qt GUI framework**
+  * [Python Patterns](https://python-patterns.guide/#python-patterns) - **Advanced**
   
-*  **Youtube Tutorials**
-   * [Edureka](https://www.youtube.com/watch?v=N0lxfilGfak&list=PL9ooVrP1hQOHY-BeYrKHDrHKphsJOyRyu)
-   * [thenewboston](https://www.youtube.com/watch?v=4Mf0h3HphEA&list=PLEA1FEF17E1E5C0DA)
-   * [freecodecamp](https://www.youtube.com/watch?v=rfscVS0vtbw)
-   * [Video Tutorial for absolute beginners - Youtube](http://bit.ly/2NkrsKh)
-   * [Corey Schafer - (Content focusing mostly on Python-related tutorials)](https://www.youtube.com/user/schafer5)
+* **Youtube Tutorials**
+  * [Edureka](https://www.youtube.com/watch?v=N0lxfilGfak&list=PL9ooVrP1hQOHY-BeYrKHDrHKphsJOyRyu)
+  * [thenewboston](https://www.youtube.com/watch?v=4Mf0h3HphEA&list=PLEA1FEF17E1E5C0DA)
+  * [freecodecamp](https://www.youtube.com/watch?v=rfscVS0vtbw)
+  * [Video Tutorial for absolute beginners - Youtube](http://bit.ly/2NkrsKh)
+  * [Corey Schafer - (Content focusing mostly on Python-related tutorials)](https://www.youtube.com/user/schafer5)
 
 ## Android Development
--  [Udacity - Free courses & Nanodegree](https://udacity.com)
--  [PluralSight - Android Developer Track](http://pluralsight.com/) [FREE for 60 days] 
--  [Path to Associate Android Developer](https://github.com/Amejia481/Associate-Android-Developer-Certification)
--  [Android examples ](https://github.com/nisrulz/android-examples)
--  [Flutter Examples ](https://github.com/nisrulz/flutter-examples) 
- 
+
+* [Udacity - Free courses & Nanodegree](https://udacity.com)
+
+* [PluralSight - Android Developer Track](http://pluralsight.com/) [FREE for 60 days]
+* [Path to Associate Android Developer](https://github.com/Amejia481/Associate-Android-Developer-Certification)
+* [Android examples](https://github.com/nisrulz/android-examples)
+* [Flutter Examples](https://github.com/nisrulz/flutter-examples)
+
 ## Computer Graphics
-- [Scratchapixel](https://www.scratchapixel.com/) (Article)
-- [Peter Shirley raytracing trilogy](https://raytracing.github.io/) (Books)
-- [Intro to CG](https://www.youtube.com/watch?v=TEAtmCYYKZA) (Video)
-- [Intro to CG 2](https://www.youtube.com/watch?v=cvcAjgMUPUA) (Video)
-- [University of Utah course](https://www.youtube.com/playlist?list=PLplnkTzzqsZTfYh4UbhLGpI5kGd5oW_Hh) (Video)
-- [Sebastian Lague](https://www.youtube.com/c/SebastianLague) (Interesting projects) (Video)
-- [Daniel shiffman](https://www.youtube.com/user/shiffman) (Creative coding) (Video)
-- [ThinMatrix](https://www.youtube.com/user/ThinMatrix) (Devlog) (Video)
-- [Acegimko](https://www.youtube.com/c/Acegikmo/playlists) (Maths and CG concepts) (Video)
-- [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw) (Maths) (Video)
-- [LearnOpenGL](https://learnopengl.com/) (You should only follow concepts here, not api) (Book/Article)
- 
+
+* [Scratchapixel](https://www.scratchapixel.com/) (Article)
+
+* [Peter Shirley raytracing trilogy](https://raytracing.github.io/) (Books)
+* [Intro to CG](https://www.youtube.com/watch?v=TEAtmCYYKZA) (Video)
+* [Intro to CG 2](https://www.youtube.com/watch?v=cvcAjgMUPUA) (Video)
+* [University of Utah course](https://www.youtube.com/playlist?list=PLplnkTzzqsZTfYh4UbhLGpI5kGd5oW_Hh) (Video)
+* [Sebastian Lague](https://www.youtube.com/c/SebastianLague) (Interesting projects) (Video)
+* [Daniel shiffman](https://www.youtube.com/user/shiffman) (Creative coding) (Video)
+* [ThinMatrix](https://www.youtube.com/user/ThinMatrix) (Devlog) (Video)
+* [Acegimko](https://www.youtube.com/c/Acegikmo/playlists) (Maths and CG concepts) (Video)
+* [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw) (Maths) (Video)
+* [LearnOpenGL](https://learnopengl.com/) (You should only follow concepts here, not api) (Book/Article)
+
 Last but not least: write your own goddamned projects and learn from it.
- 
+
 Advice: Try to use graphics abstraction instead of pure metal/opengl/vulkan/dx12
- 
-Graphics abstraction: 
- 
-- [Kinc](https://github.com/Kode/Kinc) (C/C++)
-- [Kha](https://github.com/Kode/Kha) (Haxe)
-- [Krom](https://github.com/Kode/Krom) (JS)
-- [bgfx](https://github.com/bkaradzic/bgfx) (C/C++)
-- [wgpu](https://github.com/gfx-rs/wgpu) (Rust)
+
+Graphics abstraction:
+
+* [Kinc](https://github.com/Kode/Kinc) (C/C++)
+* [Kha](https://github.com/Kode/Kha) (Haxe)
+* [Krom](https://github.com/Kode/Krom) (JS)
+* [bgfx](https://github.com/bkaradzic/bgfx) (C/C++)
+* [wgpu](https://github.com/gfx-rs/wgpu) (Rust)
 
 ## Backend Development
 
--  **Django - Python**
-    - [Try Django | Youtube](https://www.youtube.com/playlist?list=PLEsfXFp6DpzTD1BD1aWNxS2Ep06vIkaeW) - *Best for begineers*
-    - [Django Docs ](https://docs.djangoproject.com/en/2.1/)
-    - [Django Girls](https://tutorial.djangogirls.org/en/)
+* **Django - Python**
+  * [Try Django | Youtube](https://www.youtube.com/playlist?list=PLEsfXFp6DpzTD1BD1aWNxS2Ep06vIkaeW) - *Best for begineers*
+  * [Django Docs](https://docs.djangoproject.com/en/2.1/)
+  * [Django Girls](https://tutorial.djangogirls.org/en/)
 
--  **Node.JS**
-    - [The Complete Node.js Developer Course | UDEMY](https://www.udemy.com/the-complete-nodejs-developer-course-2/) -- **PAID**
-    - [Introduction to NodeJS by Microsoft](https://www.edx.org/course/introduction-to-nodejs)
-    - [Getting started with NodeJS by freeCodeCamp](https://guide.freecodecamp.org/miscellaneous/get-started-with-nodejs/)
-    - [Express web framework (Node.js/JavaScript)](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs)  
-    - [Nodeschool - Interactive tutorials](https://nodeschool.io/)  
-    - [You Don't Know Node - Gain in-depth understanding of how Node.JS operates](https://node.university/p/you-dont-know-node)
-    
-    
+* **Node.JS**
+  * [The Complete Node.js Developer Course | UDEMY](https://www.udemy.com/the-complete-nodejs-developer-course-2/) -- **PAID**
+  * [Introduction to NodeJS by Microsoft](https://www.edx.org/course/introduction-to-nodejs)
+  * [Getting started with NodeJS by freeCodeCamp](https://guide.freecodecamp.org/miscellaneous/get-started-with-nodejs/)
+  * [Express web framework (Node.js/JavaScript)](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs)  
+  * [Nodeschool - Interactive tutorials](https://nodeschool.io/)  
+  * [You Don't Know Node - Gain in-depth understanding of how Node.JS operates](https://node.university/p/you-dont-know-node)
+
 ## Front-End Web Development
 
 [MDN's official front-end web developer learning pathway](https://developer.mozilla.org/en-US/docs/Learn/Front-end_web_developer) is a good starting point for learning front-end web development.
   
-- **CSS**
-     - [The Ultimate Guide To Learning CSS](https://zendev.com/ultimate-guide-to-learning-css.html)
-     - [MDN's Guide To Learning CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS)
-     - [FreeCodeCamp course for JS](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/)
+* **CSS**
+  * [The Ultimate Guide To Learning CSS](https://zendev.com/ultimate-guide-to-learning-css.html)
+  * [MDN's Guide To Learning CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS)
+  * [FreeCodeCamp course for JS](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/)
   
-- **Javascript**
-     - [MDN's Guide to Learning JS](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)
-     - [Google OpenClassroom for JS](https://learndigital.withgoogle.com/digitalgarage/course/learn-programming-with-javascript)
-     - [FreeCodeCamp course for JS](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/)
+* **Javascript**
+  * [MDN's Guide to Learning JS](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)
+  * [Google OpenClassroom for JS](https://learndigital.withgoogle.com/digitalgarage/course/learn-programming-with-javascript)
+  * [FreeCodeCamp course for JS](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/)
 
-- **React.js**
-     - [Video Tutorials - Beginner to Intermediate](https://www.youtube.com/watch?v=JPT3bFIwJYA&list=PL55RiY5tL51oyA8euSROLjMFZbXaV7skS)
-     - [FreeCodeCamp Articles](https://medium.freecodecamp.org/search?q=react)
-     - [Few Projects for every React Dev](https://daveceddia.com/react-practice-projects/)
-     - [Famous GitHub Repos](https://medium.mybridge.co/react-js-open-source-for-the-past-year-2018-a7c553902010)
-     - [PAID but Worth it | UDEMY](https://www.udemy.com/react-the-complete-guide-incl-redux/) -- **PAID**
-     - [Orignal Docs](https://reactjs.org/docs/hello-world.html)
+* **React.js**
+  * [Video Tutorials - Beginner to Intermediate](https://www.youtube.com/watch?v=JPT3bFIwJYA&list=PL55RiY5tL51oyA8euSROLjMFZbXaV7skS)
+  * [FreeCodeCamp Articles](https://medium.freecodecamp.org/search?q=react)
+  * [Few Projects for every React Dev](https://daveceddia.com/react-practice-projects/)
+  * [Famous GitHub Repos](https://medium.mybridge.co/react-js-open-source-for-the-past-year-2018-a7c553902010)
+  * [PAID but Worth it | UDEMY](https://www.udemy.com/react-the-complete-guide-incl-redux/) -- **PAID**
+  * [Orignal Docs](https://reactjs.org/docs/hello-world.html)
   
-- **Vue.js**
-     - [Vue.js 2.0 Fundamentals - Youtube Playlist](https://www.youtube.com/playlist?list=PLwAKR305CRO_1yAao-8aZiQnBqJeyng4O)
-     - [Getting started with Vue](https://sabe.io/tutorials/getting-started-with-vue-js)
-     - [PAID but Worth it | UDEMY](https://www.udemy.com/course/vuejs-2-the-complete-guide/) -- **PAID**
-     - [Official guide](https://vuejs.org/v2/guide/)
+* **Vue.js**
+  * [Vue.js 2.0 Fundamentals - Youtube Playlist](https://www.youtube.com/playlist?list=PLwAKR305CRO_1yAao-8aZiQnBqJeyng4O)
+  * [Getting started with Vue](https://sabe.io/tutorials/getting-started-with-vue-js)
+  * [PAID but Worth it | UDEMY](https://www.udemy.com/course/vuejs-2-the-complete-guide/) -- **PAID**
+  * [Official guide](https://vuejs.org/v2/guide/)
   
-- **Angular**
-     - [FreeCodeCamp full course on YouTube](https://www.youtube.com/watch?v=2OHbjep_WjQ&t=3774s)
-     - [PAID but Worth it | UDEMY](https://www.udemy.com/course/the-complete-guide-to-angular-2/) -- **PAID**
-     - [Official Tutorial](https://angular.io/tutorial)
-     - [Official Docs](https://angular.io/docs)
+* **Angular**
+  * [FreeCodeCamp full course on YouTube](https://www.youtube.com/watch?v=2OHbjep_WjQ&t=3774s)
+  * [PAID but Worth it | UDEMY](https://www.udemy.com/course/the-complete-guide-to-angular-2/) -- **PAID**
+  * [Official Tutorial](https://angular.io/tutorial)
+  * [Official Docs](https://angular.io/docs)
   
-##  **Data Structures**
-- [Coding Interview University - Github](https://github.com/jwasham/coding-interview-university) -  **Strongly Recommended to learn DS and Computer Science fundamentals**
+## **Data Structures**
 
-##  **Machine Learning**
+* [Coding Interview University - Github](https://github.com/jwasham/coding-interview-university) -  **Strongly Recommended to learn DS and Computer Science fundamentals**
+
+## **Machine Learning**
   
 > [**Browse these links for detailed information on Machine Learning**](https://github.com/dipakkr/A-to-Z-Resources-for-Students/blob/master/ML.md)
 
--  **Best Online Courses**
-    - [CSE-229 - Stanford University]( http://cs229.stanford.edu/)
-    - [AndrewNg Coursera](https://www.coursera.org/learn/machine-learning)
-    - [Udacity Machine Learning Nanodegree](https://in.udacity.com/course/intro-to-machine-learning--ud120-india) 
-    - [ Reinforcement Learning - Nanodegree](https://in.udacity.com/course/reinforcement-learning--ud600)
-    - [ML with Python - Youtube ](https://www.youtube.com/playlist?list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v)
-    
--  **Best Github Repositories to follow**
-    - [Self Taught Path for Data Science](https://github.com/ossu/data-science)
+* **Best Online Courses**
+  * [CSE-229 - Stanford University]( http://cs229.stanford.edu/)
+  * [AndrewNg Coursera](https://www.coursera.org/learn/machine-learning)
+  * [Udacity Machine Learning Nanodegree](https://in.udacity.com/course/intro-to-machine-learning--ud120-india)
+  * [Reinforcement Learning - Nanodegree](https://in.udacity.com/course/reinforcement-learning--ud600)
+  * [ML with Python - Youtube](https://www.youtube.com/playlist?list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v)
 
--  **Research Papers**
-    - [Arxiv](https://arxiv.org/)
-    - [IEEE](https://ieeexplore.ieee.org/Xplore/home.jsp)
-    - [Research Gate](https://www.researchgate.net/)
-    - [Academics Torrent - Search Dataset](http://academictorrents.com/)
-         
--  **Some Resourcefull Links**
-    - [ML Resources](https://sgfin.github.io/learning-resources/?fbclid=IwAR1KBG0QzDp5Jn1RBB0E9FL6trzmWc7T-rVgkfQN_TBj8VEBpB4yt1yE-Rc)
-    - [200 Best ML,NLP and Python Tutorials 2018](https://medium.com/machine-learning-in-practice/over-200-of-the-best-machine-learning-nlp-and-python-tutorials-2018-edition-dd8cf53cb7dc)
+* **Best Github Repositories to follow**
+  * [Self Taught Path for Data Science](https://github.com/ossu/data-science)
 
-##  **Deep Learning**
+* **Research Papers**
+  * [Arxiv](https://arxiv.org/)
+  * [IEEE](https://ieeexplore.ieee.org/Xplore/home.jsp)
+  * [Research Gate](https://www.researchgate.net/)
+  * [Academics Torrent - Search Dataset](http://academictorrents.com/)
+
+* **Some Resourcefull Links**
+  * [ML Resources](https://sgfin.github.io/learning-resources/?fbclid=IwAR1KBG0QzDp5Jn1RBB0E9FL6trzmWc7T-rVgkfQN_TBj8VEBpB4yt1yE-Rc)
+  * [200 Best ML,NLP and Python Tutorials 2018](https://medium.com/machine-learning-in-practice/over-200-of-the-best-machine-learning-nlp-and-python-tutorials-2018-edition-dd8cf53cb7dc)
+
+## **Deep Learning**
 
 > [**Browse these links for detailed information on Deep Learning**](https://github.com/dipakkr/A-to-Z-Resources-for-Students/blob/master/ML.md)
 
--  **Best Online Courses**
-    - [Deep Learning Specialization - Coursera](https://www.coursera.org/specializations/deep-learning)   
-    - [Deep Learning - Fast.AI](http://course.fast.ai/)
-    
--  **Best Github Repositories to follow**
-    - [Top -200 Github Repos in Deep learning](https://github.com/mbadry1/Top-Deep-Learning)    
-    - [DensePose - FB Research](https://github.com/facebookresearch/DensePose)
-    - [Data Science HandBook](https://github.com/jakevdp/PythonDataScienceHandbook)
-    - [Tensorflow Project Template](https://github.com/MrGemy95/Tensorflow-Project-Template)
-    - [VisualDL](https://github.com/PaddlePaddle/VisualDL)
-    - [Caire - Content aware image resize library ](https://github.com/esimov/caire)
-    
--  **Lecture Slides**
-    - [Master Data Science PARIS-SACLAY](https://m2dsupsdlclass.github.io/lectures-labs/)
-    
+* **Best Online Courses**
+  * [Deep Learning Specialization - Coursera](https://www.coursera.org/specializations/deep-learning)
+  * [Deep Learning - Fast.AI](http://course.fast.ai/)
+
+* **Best Github Repositories to follow**
+  * [Top -200 Github Repos in Deep learning](https://github.com/mbadry1/Top-Deep-Learning)
+  * [DensePose - FB Research](https://github.com/facebookresearch/DensePose)
+  * [Data Science HandBook](https://github.com/jakevdp/PythonDataScienceHandbook)
+  * [Tensorflow Project Template](https://github.com/MrGemy95/Tensorflow-Project-Template)
+  * [VisualDL](https://github.com/PaddlePaddle/VisualDL)
+  * [Caire - Content aware image resize library](https://github.com/esimov/caire)
+
+* **Lecture Slides**
+  * [Master Data Science PARIS-SACLAY](https://m2dsupsdlclass.github.io/lectures-labs/)
+
 ## Algorithms & Data Structures (E-Books)
 
 * [A Field Guide To Genetic Programming](http://dces.essex.ac.uk/staff/rpoli/gp-field-guide/toc.html) - Riccardo Poli et al.
@@ -250,22 +253,22 @@ Graphics abstraction:
 
 ## Miscellaneous
 
-- [How HTTPS Works](https://howhttps.works/)
-- [How DNS Works](https://howdns.works/)
-- [Stanford CS Education Library](http://cslibrary.stanford.edu/)
-- [Git.WTF](https://git.wtf/)
-- [Oh shit, git!](https://ohshitgit.com/)
-- [OpenStax Textbooks](https://cnx.org/)
-- [Computer-Science-Resources](https://github.com/the-akira/Computer-Science-Resources.git)
-- [every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know)
-- [97 Things Every Programmer Should Know](https://97-things-every-x-should-know.gitbooks.io/97-things-every-programmer-should-know/en/)
+* [How HTTPS Works](https://howhttps.works/)
+* [How DNS Works](https://howdns.works/)
+* [Stanford CS Education Library](http://cslibrary.stanford.edu/)
+* [Git.WTF](https://git.wtf/)
+* [Oh shit, git!](https://ohshitgit.com/)
+* [OpenStax Textbooks](https://cnx.org/)
+* [Computer-Science-Resources](https://github.com/the-akira/Computer-Science-Resources.git)
+* [every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know)
+* [97 Things Every Programmer Should Know](https://97-things-every-x-should-know.gitbooks.io/97-things-every-programmer-should-know/en/)
+* [Github Student Education package](https://education.github.com)
 
-
-# 📜 License
+## 📜 License
 
 This project is licensed under the GPL-3.0 License. See the [LICENSE](LICENSE) file for details.
 
-# 👋 Contributing
+## 👋 Contributing
 
 Please read the [CONTRIBUTING](CONTRIBUTING.md) guidelines for the process of submitting pull requests to us.
 
