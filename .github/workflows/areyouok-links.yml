@@ -2,8 +2,8 @@ name: Audit Links using AreYouOk
 on:
   workflow_dispatch:
   schedule:
-    # At 06:00 AM, every 30 days
-    - cron:  '0 6 */30 * *'
+    # At 06:00 AM, every 15 days
+    - cron:  '0 5 */15 * *'
       
 jobs:
   build:
@@ -16,10 +16,5 @@ jobs:
           wget -q https://github.com/Bhupesh-V/areyouok/releases/latest/download/areyouok-linux-amd64
           chmod +x areyouok-linux-amd64
           ./areyouok-linux-amd64 -i=_layouts,.git,_site,build.py,USAGE.md -r=github
-      - name: Create Issue
+      - name: Create issue if broken links found
         uses: peter-evans/create-issue-from-file@v2
-        with:
-          title: AreYouOk URL Health Report
-          content-filepath: ./report.github
-      - name: Cleanup
-        run: rm report.github
