@@ -18,3 +18,6 @@ jobs:
           ./areyouok-linux-amd64 -i=_layouts,.git,_site,build.py,USAGE.md -r=github
       - name: Create issue if broken links found
         uses: peter-evans/create-issue-from-file@v2
+        with:
+          title: Broken URLs report
+          content-filepath: ./report.github
