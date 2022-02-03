@@ -283,6 +283,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/SharmaAayush"><img src="https://avatars.githubusercontent.com/u/29497880?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Ayush Sharma</b></sub></a><br /><a href="#content-SharmaAayush" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/BlackGoku36"><img src="https://avatars.githubusercontent.com/u/36535717?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Urjasvi Suthar</b></sub></a><br /><a href="#content-BlackGoku36" title="Content">🖋</a></td>
     <td align="center"><a href="https://jarmos.netlify.app/"><img src="https://avatars.githubusercontent.com/u/31373860?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Somraj Saha</b></sub></a><br /><a href="#content-Jarmos-san" title="Content">🖋</a></td>
+    <td align="center"><a href="https://bhupeshpradhan.vercel.app/"><img src="https://avatars.githubusercontent.com/u/76522149?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Bhupesh Pradhan</b></sub></a><br /><a href="#infra-HanakoK9" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a></td>
   </tr>
 </table>
 
