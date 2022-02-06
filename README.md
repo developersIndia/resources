@@ -135,7 +135,16 @@ Graphics abstraction:
      - [The Ultimate Guide To Learning CSS](https://zendev.com/ultimate-guide-to-learning-css.html)
      - [MDN's Guide To Learning CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS)
      - [FreeCodeCamp course for JS](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/)
-  
+ 
+     - **Templates and miscs for CSS**
+         - [BG-Jar](https://bgjar.com/)
+         - [CSS Buttons - Templates](https://cssbuttons.io/)
+         - [Css Wave Maker](https://getwaves.io/)
+         - [DaisyUi - Tailwind css components for free](https://daisyui.com/)
+         - [Neumorphism - Css shadow generator] (https://neumorphism.io/#e0e0e0)
+         - [HTML website templates](https://html5up.net/)
+         - [Color Library](https://colorlib.com/)
+ 
 - **Javascript**
      - [MDN's Guide to Learning JS](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)
      - [Google OpenClassroom for JS](https://learndigital.withgoogle.com/digitalgarage/course/learn-programming-with-javascript)
