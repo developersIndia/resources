@@ -98,6 +98,9 @@ Find below some of the best and popular resources for learning new technologies/
 - [Acegimko](https://www.youtube.com/c/Acegikmo/playlists) (Maths and CG concepts) (Video)
 - [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw) (Maths) (Video)
 - [LearnOpenGL](https://learnopengl.com/) (You should only follow concepts here, not api) (Book/Article)
+- [Bisqwit](https://youtube.com/c/Bisqwit) (Video)
+- [Javidx9 (One Lone Coder)](https://youtube.com/c/javidx9) (Video)
+
  
 Last but not least: write your own goddamned projects and learn from it.
  
@@ -110,6 +113,8 @@ Graphics abstraction:
 - [Krom](https://github.com/Kode/Krom) (JS)
 - [bgfx](https://github.com/bkaradzic/bgfx) (C/C++)
 - [wgpu](https://github.com/gfx-rs/wgpu) (Rust)
+- [sokol](https://github.com/floooh/sokol) (C/[Zig](https://github.com/floooh/sokol-zig))
+- [sdl](https://www.libsdl.org/index.php)
 
 ## Backend Development
 
