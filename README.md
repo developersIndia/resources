@@ -28,7 +28,7 @@ Find below some of the best and popular resources for learning new technologies/
 ## C++
 
 *  **Websites**
-
+   * [learn cpp](https://www.learncpp.com/)
    * [cppreference](https://en.cppreference.com/w/)
    * [cplusplus](http://www.cplusplus.com/)
    * [isocpp FAQ](https://isocpp.org/faq)
@@ -259,7 +259,8 @@ Graphics abstraction:
 - [Computer-Science-Resources](https://github.com/the-akira/Computer-Science-Resources.git)
 - [every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know)
 - [97 Things Every Programmer Should Know](https://97-things-every-x-should-know.gitbooks.io/97-things-every-programmer-should-know/en/)
-
+- [Learn Regex: From Simple to Advanced.](https://regexlearn.com/)
+- [Regex One](https://regexone.com/)
 
 # 📜 License
 
