@@ -78,6 +78,10 @@ Find below some of the best and popular resources for learning new technologies/
    * [freecodecamp](https://www.youtube.com/watch?v=rfscVS0vtbw)
    * [Video Tutorial for absolute beginners - Youtube](http://bit.ly/2NkrsKh)
    * [Corey Schafer - (Content focusing mostly on Python-related tutorials)](https://www.youtube.com/user/schafer5)
+   * [ArjanCodes - (Content mostly focusing on software design)](https://www.youtube.com/c/ArjanCodes)
+
+*  **Books**
+   * [Fluent Python](https://www.amazon.in/Fluent-Python-Concise-Effective-Programming-ebook/dp/B0131L3PW4)
 
 ## Android Development
 -  [Udacity - Free courses & Nanodegree](https://udacity.com)
@@ -122,6 +126,9 @@ Graphics abstraction:
     - [Try Django | Youtube](https://www.youtube.com/playlist?list=PLEsfXFp6DpzTD1BD1aWNxS2Ep06vIkaeW) - *Best for begineers*
     - [Django Docs ](https://docs.djangoproject.com/en/2.1/)
     - [Django Girls](https://tutorial.djangogirls.org/en/)
+
+-  **FastAPI - Python**
+    - [19 hour FastAPI In-Depth Course by FCC](https://youtu.be/0sOvCWFmrtA)
 
 -  **Node.JS**
     - [The Complete Node.js Developer Course | UDEMY](https://www.udemy.com/the-complete-nodejs-developer-course-2/) -- **PAID**
