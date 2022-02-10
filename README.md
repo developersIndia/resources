@@ -141,7 +141,7 @@ Graphics abstraction:
          - [CSS Buttons - Templates](https://cssbuttons.io/)
          - [Css Wave Maker](https://getwaves.io/)
          - [DaisyUi - Tailwind css components for free](https://daisyui.com/)
-         - [Neumorphism - Css shadow generator] (https://neumorphism.io/#e0e0e0)
+         - [Neumorphism - Css shadow generator](https://neumorphism.io/#e0e0e0)
          - [HTML website templates](https://html5up.net/)
          - [Color Library](https://colorlib.com/)
  
