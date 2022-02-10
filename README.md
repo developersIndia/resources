@@ -136,7 +136,7 @@ Graphics abstraction:
      - [MDN's Guide To Learning CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS)
      - [FreeCodeCamp course for JS](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/)
  
-     - **Templates and miscs for CSS**
+     - **CSS Tools**
          - [BG-Jar](https://bgjar.com/)
          - [CSS Buttons - Templates](https://cssbuttons.io/)
          - [Css Wave Maker](https://getwaves.io/)
