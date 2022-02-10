@@ -44,7 +44,6 @@ Find below some of the best and popular resources for learning new technologies/
    * [C++ Weekly - Jason Turner](https://www.youtube.com/playlist?list=PLs3KjaCtOwSZ2tbuV1hx8Xz-rFZTan2J1) - *Advanced*
 
 *  **Blogs**
-
     - [Simplify C++](https://arne-mertz.de/) - *Advanced*
     - [Fluent C++](https://www.fluentcpp.com/) - *Advanced*
     - [Bartek's Coding Blog](https://www.bfilipek.com/?m=1) - *Advanced*
@@ -273,7 +272,8 @@ Graphics abstraction:
 - [97 Things Every Programmer Should Know](https://97-things-every-x-should-know.gitbooks.io/97-things-every-programmer-should-know/en/)
 - [Learn Regex: From Simple to Advanced.](https://regexlearn.com/)
 - [Regex One](https://regexone.com/)
-
+- [Engineering Blogs - Blogs of each and every company.](https://github.com/kilimchoi/engineering-blogs)
+ 
 # 📜 License
 
 This project is licensed under the GPL-3.0 License. See the [LICENSE](LICENSE) file for details.
