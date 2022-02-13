@@ -239,7 +239,7 @@ Graphics abstraction:
 * [Animated Algorithm and Data Structure Visualization](http://visualgo.net) (Resource)
 * [Annotated Algorithms in Python: Applications in Physics, Biology, and Finance](https://github.com/mdipierro/nlib) - Massimo di Pierro
 * [Binary Trees](http://cslibrary.stanford.edu/110/BinaryTrees.pdf) (PDF)
-* [Clever Algorithms](https://web.archive.org/web/20200511153226/http://www.cleveralgorithms.com/nature-inspired/index.html) - Jason Brownlee (Web Archive)
+* [Clever Algorithms](https://raw.githubusercontent.com/clever-algorithms/CleverAlgorithms/master/release/clever_algorithms.pdf) - Jason Brownlee (PDF)
 * [CS Unplugged: Computer Science without a computer](http://csunplugged.org/books/)
 * [Data Structures](http://www.cse.iitd.ernet.in/~suban/cs130/index.html) - Prof. Subhashis Banerjee, IIT Delhi
 * [Data Structures (Into Java) - Paul N. Hilfinger](https://web.archive.org/web/20210712072754/https://www-inst.eecs.berkeley.edu/~cs61b/fa14/book2/data-structures.pdf) (PDF, Web Archive)
