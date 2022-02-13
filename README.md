@@ -49,7 +49,7 @@ Find below some of the best and popular resources for learning new technologies/
     - [Bartek's Coding Blog](https://www.bfilipek.com/?m=1) - *Advanced*
     - [Kenny Kerr](https://kennykerr.ca/articles/) - *Advanced*
     - [Sutter’s Mill](https://herbsutter.com/gotw/) - *Advanced*
-    - [thoughts on cpp](https://thoughts-on-cpp.com/) - *Advanced*
+    - [Thoughts on CPP](https://web.archive.org/web/20211227133144/https://thoughts-on-coding.com/) - *Advanced* (Web Archive)
     - [Vorbrodt's C++ Blog](https://vorbrodt.blog/) - *Advanced*
     - [foonathan::blog()](https://foonathan.net/index.html) - *Advanced*
     - [vector<bool>{ true, true, false };](https://vector-of-bool.github.io/) - *Advanced*
@@ -65,7 +65,7 @@ Find below some of the best and popular resources for learning new technologies/
     * [Learn Python - CodeAcademy](https://www.codecademy.com/learn/learn-python)
     * [PyBites](https://pybit.es/) - **Python 3 Challenges**
     * [Progate Python Classes](https://progate.com/languages/python) - **Good for absolute begineers**
-    * [Intro to Python - Udacity - Free course](https://in.udacity.com/course/introduction-to-python--ud1110-india) 
+    * [Intro to Python](https://www.udacity.com/course/introduction-to-python--ud1110) 
     * [Google Python class](https://developers.google.com/edu/python/)
     * [Python tutorials](https://pythonspot.com/) - **Tutorials for beginners in Python with (examples)**
     * [PyQt5 tutorial](http://zetcode.com/gui/pyqt5/) - **A tutorial for the Python wrapper of the Qt GUI framework**
@@ -130,8 +130,7 @@ Graphics abstraction:
     - [19 hour FastAPI In-Depth Course by FCC](https://youtu.be/0sOvCWFmrtA)
 
 -  **Node.JS**
-    - [The Complete Node.js Developer Course | UDEMY](https://www.udemy.com/the-complete-nodejs-developer-course-2/) -- **PAID**
-    - [Introduction to NodeJS by Microsoft](https://www.edx.org/course/introduction-to-nodejs)
+    - [The Complete Node.js Developer Udemy Course](https://www.udemy.com/the-complete-nodejs-developer-course-2/) -- **PAID**
     - [Getting started with NodeJS by freeCodeCamp](https://guide.freecodecamp.org/miscellaneous/get-started-with-nodejs/)
     - [Express web framework (Node.js/JavaScript)](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs)  
     - [Nodeschool - Interactive tutorials](https://nodeschool.io/)  
@@ -166,18 +165,18 @@ Graphics abstraction:
      - [FreeCodeCamp Articles](https://medium.freecodecamp.org/search?q=react)
      - [Few Projects for every React Dev](https://daveceddia.com/react-practice-projects/)
      - [Famous GitHub Repos](https://medium.mybridge.co/react-js-open-source-for-the-past-year-2018-a7c553902010)
-     - [PAID but Worth it | UDEMY](https://www.udemy.com/react-the-complete-guide-incl-redux/) -- **PAID**
+     - [React, The complete guide to React. Udemy Course](https://www.udemy.com/react-the-complete-guide-incl-redux/) - **PAID**
      - [Orignal Docs](https://reactjs.org/docs/hello-world.html)
   
 - **Vue.js**
      - [Vue.js 2.0 Fundamentals - Youtube Playlist](https://www.youtube.com/playlist?list=PLwAKR305CRO_1yAao-8aZiQnBqJeyng4O)
      - [Getting started with Vue](https://sabe.io/tutorials/getting-started-with-vue-js)
-     - [PAID but Worth it | UDEMY](https://www.udemy.com/course/vuejs-2-the-complete-guide/) -- **PAID**
+     - [VueJs, The Complete guide Udemy Course](https://www.udemy.com/course/vuejs-2-the-complete-guide/) - **PAID**
      - [Official guide](https://vuejs.org/v2/guide/)
   
 - **Angular**
      - [FreeCodeCamp full course on YouTube](https://www.youtube.com/watch?v=2OHbjep_WjQ&t=3774s)
-     - [PAID but Worth it | UDEMY](https://www.udemy.com/course/the-complete-guide-to-angular-2/) -- **PAID**
+     - [The Complete guide to Angular Udemy Course](https://www.udemy.com/course/the-complete-guide-to-angular-2/) - **PAID**
      - [Official Tutorial](https://angular.io/tutorial)
      - [Official Docs](https://angular.io/docs)
 
@@ -190,13 +189,10 @@ Graphics abstraction:
 - [Coding Interview University - Github](https://github.com/jwasham/coding-interview-university) -  **Strongly Recommended to learn DS and Computer Science fundamentals**
 
 ##  **Machine Learning**
-  
-> [**Browse these links for detailed information on Machine Learning**](https://github.com/dipakkr/A-to-Z-Resources-for-Students/blob/master/ML.md)
 
 -  **Best Online Courses**
-    - [CSE-229 - Stanford University]( http://cs229.stanford.edu/)
+    - [CSE-229 - Stanford University](http://cs229.stanford.edu/)
     - [AndrewNg Coursera](https://www.coursera.org/learn/machine-learning)
-    - [Udacity Machine Learning Nanodegree](https://in.udacity.com/course/intro-to-machine-learning--ud120-india) 
     - [ Reinforcement Learning - Nanodegree](https://in.udacity.com/course/reinforcement-learning--ud600)
     - [ML with Python - Youtube ](https://www.youtube.com/playlist?list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v)
     
@@ -214,8 +210,6 @@ Graphics abstraction:
     - [200 Best ML,NLP and Python Tutorials 2018](https://medium.com/machine-learning-in-practice/over-200-of-the-best-machine-learning-nlp-and-python-tutorials-2018-edition-dd8cf53cb7dc)
 
 ##  **Deep Learning**
-
-> [**Browse these links for detailed information on Deep Learning**](https://github.com/dipakkr/A-to-Z-Resources-for-Students/blob/master/ML.md)
 
 -  **Best Online Courses**
     - [Deep Learning Specialization - Coursera](https://www.coursera.org/specializations/deep-learning)   
@@ -245,30 +239,29 @@ Graphics abstraction:
 * [Animated Algorithm and Data Structure Visualization](http://visualgo.net) (Resource)
 * [Annotated Algorithms in Python: Applications in Physics, Biology, and Finance](https://github.com/mdipierro/nlib) - Massimo di Pierro
 * [Binary Trees](http://cslibrary.stanford.edu/110/BinaryTrees.pdf) (PDF)
-* [Clever Algorithms](http://www.cleveralgorithms.com/nature-inspired/) - Jason Brownlee
+* [Clever Algorithms](https://web.archive.org/web/20200511153226/http://www.cleveralgorithms.com/nature-inspired/index.html) - Jason Brownlee (Web Archive)
 * [CS Unplugged: Computer Science without a computer](http://csunplugged.org/books/)
 * [Data Structures](http://www.cse.iitd.ernet.in/~suban/cs130/index.html) - Prof. Subhashis Banerjee, IIT Delhi
-* [Data Structures (Into Java) - Paul N. Hilfinger](http://www-inst.eecs.berkeley.edu/~cs61b/fa14/book2/data-structures.pdf) (PDF)
-* [Data Structures and Algorithms: Annotated Reference with Examples](http://lib.mdp.ac.id/ebook/Karya%20Umum/Dsa.pdf) - G. Barnett and L. Del Tongo (PDF)
+* [Data Structures (Into Java) - Paul N. Hilfinger](https://web.archive.org/web/20210712072754/https://www-inst.eecs.berkeley.edu/~cs61b/fa14/book2/data-structures.pdf) (PDF, Web Archive)
+* [Data Structures and Algorithms: Annotated Reference with Examples](https://web.archive.org/web/20180727114316/http://lib.mdp.ac.id/ebook/Karya%20Umum/Dsa.pdf) - G. Barnett and L. Del Tongo (PDF, Web Archive)
 * [Data Structures Succinctly Part 1, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/datastructurespart1) (PDF, Kindle) (email address *requested*, not required)
 * [Data Structures Succinctly Part 2, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/datastructurespart2) (PDF, Kindle) (email address *requested*, not required)
 * [Elementary Algorithms](https://github.com/liuxinyu95/AlgoXY) - Larry LIU Xinyu
 * [Foundations of Computer Science](http://infolab.stanford.edu/~ullman/focs.html) - Al Aho and Jeff Ullman
 * [Geometry Algorithms](http://geomalgorithms.com) - Dan Sunday
-* [Handbook of Graph Drawing and Visualization](https://cs.brown.edu/~rt/gdhandbook/)
-* [Lectures Notes on Algorithm Analysis and Computational Complexity (Fourth Edition)](https://larc.unt.edu/ian/books/free/license.html) - Ian Parberry (use form at bottom of license)
+* [Handbook of Graph Drawing and Visualization](https://web.archive.org/web/20170801080631/http://cs.brown.edu/~rt/gdhandbook/) - (Web Archive)
+* [Lectures Notes on Algorithm Analysis and Computational Complexity (Fourth Edition)](https://web.archive.org/web/20190218143940/https://larc.unt.edu/ian/books/free/license.html) - Ian Parberry (use form at bottom of license) (Web Archive)
 * [LEDA: A Platform for Combinatorial and Geometric Computing](http://people.mpi-inf.mpg.de/~mehlhorn/LEDAbook.html) - K. Mehlhorn et al.
 * [Linked List Basics](http://cslibrary.stanford.edu/103/LinkedListBasics.pdf) (PDF)
 * [Linked List Problems](http://cslibrary.stanford.edu/105/LinkedListProblems.pdf) (PDF)
 * [Matters Computational: Ideas, Algorithms, Source Code](http://www.jjj.de/fxt/fxtbook.pdf) (PDF)
 * [Open Data Structures: An Introduction](http://opendatastructures.org) - Pat Morin
 * [Planning Algorithms](http://planning.cs.uiuc.edu)
-* [Problems on Algorithms (Second Edition)](https://larc.unt.edu/ian/books/free/license.html) - Ian Parberry (use form at bottom of license)
-* [Purely Functional Data Structures (1996)](http://www.cs.cmu.edu/~rwh/theses/okasaki.pdf) - Chris Okasaki (PDF)
+* [Purely Functional Data Structures (1996)](https://web.archive.org/web/20210404195928/http://www.cs.cmu.edu/~rwh/theses/okasaki.pdf) - Chris Okasaki (PDF) (Web Archive)
 * [Sequential and parallel sorting algorithms](http://www.inf.fh-flensburg.de/lang/algorithmen/sortieren/algoen.htm)
 * [Text Algorithms](http://igm.univ-mlv.fr/~mac/REC/text-algorithms.pdf) (PDF)
 * [The Algorithm Design Manual](http://www8.cs.umu.se/kurser/TDBAfl/VT06/algorithms/BOOK/BOOK/BOOK.HTM)
-* [The Art of Computer Programming](http://www.cs.utsa.edu/~wagner/knuth/) - Donald Knuth (fascicles, mostly volume 4)
+* [The Art of Computer Programming](https://web.archive.org/web/20190407180500/http://www.cs.utsa.edu/~wagner/knuth/) - Donald Knuth (fascicles, mostly volume 4) (Web Archive)
 * [The Design of Approximation Algorithms](http://www.designofapproxalgs.com/book.pdf) (PDF)
 * [The Great Tree List Recursion Problem](http://cslibrary.stanford.edu/109/TreeListRecursion.pdf) (PDF)
 * [Think Complexity](http://greenteapress.com/complexity/) (PDF)
