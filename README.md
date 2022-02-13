@@ -180,6 +180,11 @@ Graphics abstraction:
      - [PAID but Worth it | UDEMY](https://www.udemy.com/course/the-complete-guide-to-angular-2/) -- **PAID**
      - [Official Tutorial](https://angular.io/tutorial)
      - [Official Docs](https://angular.io/docs)
+
+- **Svelte**
+    - [FreeCodeCamp full course on YouTube](https://www.youtube.com/watch?v=ujbE0mzX-CU)
+    - [Official Tutorial](https://svelte.dev/tutorial/basics)
+    - [Official Docs](https://svelte.dev/docs)
   
 ##  **Data Structures**
 - [Coding Interview University - Github](https://github.com/jwasham/coding-interview-university) -  **Strongly Recommended to learn DS and Computer Science fundamentals**
