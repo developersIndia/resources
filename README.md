@@ -130,6 +130,7 @@ Graphics abstraction:
     - [19 hour FastAPI In-Depth Course by FCC](https://youtu.be/0sOvCWFmrtA)
 
 -  **Node.JS**
+    - [Introduction to NodeJS by Microsoft](https://www.edx.org/course/introduction-to-nodejs)
     - [The Complete Node.js Developer Udemy Course](https://www.udemy.com/the-complete-nodejs-developer-course-2/) -- **PAID**
     - [Getting started with NodeJS by freeCodeCamp](https://guide.freecodecamp.org/miscellaneous/get-started-with-nodejs/)
     - [Express web framework (Node.js/JavaScript)](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs)  
@@ -189,7 +190,8 @@ Graphics abstraction:
 - [Coding Interview University - Github](https://github.com/jwasham/coding-interview-university) -  **Strongly Recommended to learn DS and Computer Science fundamentals**
 
 ##  **Machine Learning**
-
+ 
+ > - [**Browse these links for detailed information on Machine Learning**](https://github.com/dipakkr/A-to-Z-Resources-for-Students/blob/master/ML.md)
 -  **Best Online Courses**
     - [CSE-229 - Stanford University](http://cs229.stanford.edu/)
     - [AndrewNg Coursera](https://www.coursera.org/learn/machine-learning)
