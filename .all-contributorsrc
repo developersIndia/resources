@@ -58,6 +58,36 @@
       "contributions": [
         "infra"
       ]
+    },
+    {
+      "login": "Manav-SM",
+      "name": "Manav-SM",
+      "avatar_url": "https://avatars.githubusercontent.com/u/18483618?v=4",
+      "profile": "https://tailwind-nextjs-portfolio.vercel.app/",
+      "contributions": [
+        "content",
+        "audio",
+        "a11y",
+        "projectManagement",
+        "business",
+        "blog",
+        "data",
+        "test",
+        "doc",
+        "design",
+        "example",
+        "financial",
+        "ideas",
+        "tool",
+        "maintenance",
+        "mentoring",
+        "platform",
+        "plugin",
+        "question",
+        "security",
+        "tutorial",
+        "video"
+      ]
     }
   ],
   "contributorsPerLine": 7,
