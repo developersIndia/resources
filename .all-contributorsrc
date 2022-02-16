@@ -67,6 +67,15 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "Manav-SM",
+      "name": "Manav-SM",
+      "avatar_url": "https://avatars.githubusercontent.com/u/18483618?v=4",
+      "profile": "https://tailwind-nextjs-portfolio.vercel.app/",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7,
