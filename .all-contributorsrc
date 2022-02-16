@@ -58,6 +58,15 @@
       "contributions": [
         "infra"
       ]
+    },
+    {
+      "login": "V3dantSh4rma",
+      "name": "Vedant Sharma",
+      "avatar_url": "https://avatars.githubusercontent.com/u/70263758?v=4",
+      "profile": "https://github.com/V3dantSh4rma",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7,
