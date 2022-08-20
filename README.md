@@ -160,6 +160,7 @@ Graphics abstraction:
      - [MDN's Guide to Learning JS](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)
      - [Google OpenClassroom for JS](https://learndigital.withgoogle.com/digitalgarage/course/learn-programming-with-javascript)
      - [FreeCodeCamp course for JS](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/)
+     - [The Modern JavaScript Tutorial](https://javascript.info/)
 
 - **React.js**
      - [Video Tutorials - Beginner to Intermediate](https://www.youtube.com/watch?v=JPT3bFIwJYA&list=PL55RiY5tL51oyA8euSROLjMFZbXaV7skS)
@@ -282,6 +283,7 @@ Graphics abstraction:
 - [Learn Regex: From Simple to Advanced.](https://regexlearn.com/)
 - [Regex One](https://regexone.com/)
 - [Engineering Blogs - Blogs of each and every company.](https://github.com/kilimchoi/engineering-blogs)
+- [Computer Networking by Georgia Tech](https://www.udacity.com/course/computer-networking--ud436)
  
 # 📜 License
 
