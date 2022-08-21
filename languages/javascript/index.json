@@ -1,0 +1,28 @@
+{
+    "resources":[
+        {
+            "title":"MDN's Guide to Learning JS",
+            "url":"https://developer.mozilla.org/en-US/docs/Learn/JavaScript",
+            "type":"article",
+            "level":"beginner"
+        },
+        {
+            "title":"Google OpenClassroom for JavaScript",
+            "url":"https://learndigital.withgoogle.com/digitalgarage/course/learn-programming-with-javascript",
+            "type":"course",
+            "level":"beginner"
+        },
+        {
+            "title":"JavaScript Algorithms & Data Structures",
+            "url":"https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/",
+            "type":"course",
+            "level":"beginner"
+        },
+        {
+            "title":"The Modern JavaScript Tutorial",
+            "url":"https://javascript.info/",
+            "type":"article",
+            "level": "beginner"
+        }
+    ]
+}

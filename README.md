@@ -13,42 +13,6 @@
 
 Find below some of the best and popular resources for learning new technologies/programming languages.
 
-
-## C++
-
-*  **Websites**
-   * [learn cpp](https://www.learncpp.com/)
-   * [cppreference](https://en.cppreference.com/w/)
-   * [cplusplus](http://www.cplusplus.com/)
-   * [isocpp FAQ](https://isocpp.org/faq)
-   * [C++ 11 FAQ](http://www.stroustrup.com/C++11FAQ.html)
-   * [C++ Patterns](https://cpppatterns.com/)
-
-*  **Youtube Tutorials**
-
-   * [thenewboston](https://www.youtube.com/watch?v=tvC1WCdV1XU&list=PLAE85DE8440AA6B83)
-   * [freecodecamp](https://www.youtube.com/watch?v=vLnPwxZdW4Y)
-   * [TheChernoProject](https://www.youtube.com/watch?v=18c3MTX0PK0&list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb)
-   * [DerekBanas](https://www.youtube.com/watch?v=DamuE8TM3xo&list=PLGLfVvz_LVvQ9S8YSV0iDsuEU8v11yP9M)
-   * [C++ Weekly - Jason Turner](https://www.youtube.com/playlist?list=PLs3KjaCtOwSZ2tbuV1hx8Xz-rFZTan2J1) - *Advanced*
-
-*  **Blogs**
-    - [Simplify C++](https://arne-mertz.de/) - *Advanced*
-    - [Fluent C++](https://www.fluentcpp.com/) - *Advanced*
-    - [Bartek's Coding Blog](https://www.bfilipek.com/?m=1) - *Advanced*
-    - [Kenny Kerr](https://kennykerr.ca/articles/) - *Advanced*
-    - [Sutter’s Mill](https://herbsutter.com/gotw/) - *Advanced*
-    - [Thoughts on CPP](https://web.archive.org/web/20211227133144/https://thoughts-on-coding.com/) - *Advanced* (Web Archive)
-    - [Vorbrodt's C++ Blog](https://vorbrodt.blog/) - *Advanced*
-    - [foonathan::blog()](https://foonathan.net/index.html) - *Advanced*
-    - [vector<bool>{ true, true, false };](https://vector-of-bool.github.io/) - *Advanced*
-
-## Android Development
--  [Udacity - Free courses & Nanodegree](https://udacity.com)
--  [PluralSight - Android Developer Track](http://pluralsight.com/) [FREE for 60 days] 
--  [Path to Associate Android Developer](https://github.com/Amejia481/Associate-Android-Developer-Certification)
--  [Android examples ](https://github.com/nisrulz/android-examples)
--  [Flutter Examples ](https://github.com/nisrulz/flutter-examples) 
  
 ## Computer Graphics
 - [Scratchapixel](https://www.scratchapixel.com/) (Article)
@@ -82,14 +46,6 @@ Graphics abstraction:
 
 ## Backend Development
 
--  **Django - Python**
-    - [Try Django | Youtube](https://www.youtube.com/playlist?list=PLEsfXFp6DpzTD1BD1aWNxS2Ep06vIkaeW) - *Best for begineers*
-    - [Django Docs ](https://docs.djangoproject.com/en/2.1/)
-    - [Django Girls](https://tutorial.djangogirls.org/en/)
-
--  **FastAPI - Python**
-    - [19 hour FastAPI In-Depth Course by FCC](https://youtu.be/0sOvCWFmrtA)
-
 -  **Node.JS**
     - [Introduction to NodeJS by Microsoft](https://www.edx.org/course/introduction-to-nodejs)
     - [The Complete Node.js Developer Udemy Course](https://www.udemy.com/the-complete-nodejs-developer-course-2/) -- **PAID**
@@ -104,10 +60,6 @@ Graphics abstraction:
 [MDN's official front-end web developer learning pathway](https://developer.mozilla.org/en-US/docs/Learn/Front-end_web_developer) is a good starting point for learning front-end web development.
   
 - **CSS**
-     - [The Ultimate Guide To Learning CSS](https://zendev.com/ultimate-guide-to-learning-css.html)
-     - [MDN's Guide To Learning CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS)
-     - [FreeCodeCamp course for JS](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/)
- 
      - **CSS Tools**
          - [BG-Jar](https://bgjar.com/)
          - [CSS Buttons - Templates](https://cssbuttons.io/)
@@ -117,11 +69,7 @@ Graphics abstraction:
          - [HTML website templates](https://html5up.net/)
          - [Color Library](https://colorlib.com/)
  
-- **Javascript**
-     - [MDN's Guide to Learning JS](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)
-     - [Google OpenClassroom for JS](https://learndigital.withgoogle.com/digitalgarage/course/learn-programming-with-javascript)
-     - [FreeCodeCamp course for JS](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/)
-     - [The Modern JavaScript Tutorial](https://javascript.info/)
+
 
 - **React.js**
      - [Video Tutorials - Beginner to Intermediate](https://www.youtube.com/watch?v=JPT3bFIwJYA&list=PL55RiY5tL51oyA8euSROLjMFZbXaV7skS)

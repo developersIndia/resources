@@ -89,6 +89,24 @@
             "url":"https://developers.google.com/edu/python/",
             "type":"article",
             "level":"beginner"
+        },
+        {
+            "title":"Try Django by  CodingEntrepreneurs",
+            "url":"https://www.youtube.com/playlist?list=PLEsfXFp6DpzTD1BD1aWNxS2Ep06vIkaeW",
+            "type":"video",
+            "level":"beginner"
+        },
+        {
+            "title":"Django Tutorials by Django Girls",
+            "url":"https://tutorial.djangogirls.org/en/",
+            "type":"article",
+            "level":"beginner"
+        },
+        {
+            "title":"Python API Development - 19 hour FastAPI In-Depth Course by FreeCodeCamp",
+            "url":"https://youtu.be/0sOvCWFmrtA",
+            "type":"video",
+            "level":"beginner"
         }
     ]
 }

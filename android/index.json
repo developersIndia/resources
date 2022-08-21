@@ -1,0 +1,16 @@
+{
+    "resources":[
+        {
+            "title":"Path to Associate Android Developer",
+            "url":"https://github.com/Amejia481/Associate-Android-Developer-Certification",
+            "type":"github",
+            "level":"intermediate"
+        },
+        {
+            "title":"Examples of Simple basic isolated apps, for budding android devs.",
+            "url":"https://github.com/nisrulz/android-examples",
+            "type":"github",
+            "level":"beginner"
+        }
+    ]
+}
