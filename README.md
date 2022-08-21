@@ -312,6 +312,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   </tr>
   <tr>
     <td align="center"><a href="https://tailwind-nextjs-portfolio.vercel.app/"><img src="https://avatars.githubusercontent.com/u/18483618?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Manav-SM</b></sub></a><br /><a href="#content-Manav-SM" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/SameerSahu007"><img src="https://avatars.githubusercontent.com/u/29480670?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Sameer Sahu</b></sub></a><br /><a href="#content-SameerSahu007" title="Content">🖋</a></td>
   </tr>
 </table>
 
