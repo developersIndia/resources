@@ -1,0 +1,94 @@
+{
+    "resources":[
+        {
+            "title": "Fluent Python",
+            "url":"https://www.amazon.in/Fluent-Python-Concise-Effective-Programming-ebook/dp/B0131L3PW4",
+            "type": "book",
+            "level":"intermediate"
+        },
+        {
+            "title": "Edureka YouTube",
+            "url":"https://www.youtube.com/watch?v=N0lxfilGfak&list=PL9ooVrP1hQOHY-BeYrKHDrHKphsJOyRyu",
+            "type":"video",
+            "level":"beginner"
+        },
+        {
+            "title":"thenewboston youtube",
+            "url":"https://www.youtube.com/watch?v=4Mf0h3HphEA&list=PLEA1FEF17E1E5C0DA",
+            "type":"video",
+            "level":"beginner"
+        },
+        {
+            "title":"FreeCodeCamp Python Full 4 hour course",
+            "url":"https://www.youtube.com/watch?v=rfscVS0vtbw",
+            "type":"video",
+            "level":"beginner"
+        },
+        {
+            "title": "Python 3 Basics Tutorial series by sentdex",
+            "url":"https://www.youtube.com/playlist?list=PLQVvvaa0QuDe8XSftW-RAxdo6OmaeL85M",
+            "type":"video",
+            "level":"beginner"
+        },
+        {
+            "title":"Python Tutorial for Beginners by Corey Schafer",
+            "url":"https://www.youtube.com/watch?v=YYXdXT2l-Gg&list=PL-osiE80TeTskrapNbzXhwoFUiLCjGgY7",
+            "type":"video",
+            "level":"beginner"
+        },
+        {
+            "title":"Software Design in Python by ArjanCodes",
+            "url":"https://www.youtube.com/playlist?list=PLC0nd42SBTaNuP4iB4L6SJlMaHE71FG6N",
+            "type":"video",
+            "level":"intermediate"
+        },
+        {
+            "title":"learnpython.org",
+            "url":"https://www.learnpython.org/",
+            "type":"article",
+            "level":"beginner"
+        },
+        {
+            "title":"Python Patterns",
+            "url":"https://python-patterns.guide/#python-patterns",
+            "type":"article",
+            "level":"advanced"
+        },
+        {
+            "title":"Progate Python Classes",
+            "url":"https://progate.com/languages/python",
+            "type":"article",
+            "level":"beginner"
+        },
+        {
+            "title":"Python Spot",
+            "url":"https://pythonspot.com/",
+            "type":"article",
+            "level":"beginner"
+        },
+        {
+            "title":"PyQt5 tutorial (Python wrapper of the Qt GUI framework)",
+            "url":"http://zetcode.com/gui/pyqt5/",
+            "type":"article",
+            "level":"intermediate"
+        },
+        {
+            "title":"Intro to Python by Udactiy",
+            "url":"https://www.udacity.com/course/introduction-to-python--ud1110",
+            "type":"course",
+            "level":"beginner"
+        },
+        {
+            "title":"Learn Python - CodeAcademy",
+            "url":"https://www.codecademy.com/learn/learn-python",
+            "type":"course",
+            "level":"beginner"
+        },
+        {
+            "title":"Google's Python Class",
+            "url":"https://developers.google.com/edu/python/",
+            "type":"article",
+            "level":"beginner"
+        }
+    ]
+}
