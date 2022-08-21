@@ -12,17 +12,6 @@
 [![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fintent%2Ftweet%3Furl%3Dhttps%3A%2F%2Fgithub.com%2FdevelopersIndia%2Fwiki%26text%3DThe%2520Developers%2520India%2520Wiki%2520is%2520full%2520of%2520cool%2520resources%2520to%2520learn%2520new%2520things)](https://twitter.com/intent/tweet?url=https://github.com/developersIndia/wiki&text=Developers%20India%20Wiki%20has%20some%20cool%20resources%20!!)
 
 Find below some of the best and popular resources for learning new technologies/programming languages.
-
-
-## Backend Development
-
--  **Node.JS**
-    - [Introduction to NodeJS by Microsoft](https://www.edx.org/course/introduction-to-nodejs)
-    - [The Complete Node.js Developer Udemy Course](https://www.udemy.com/the-complete-nodejs-developer-course-2/) -- **PAID**
-    - [Getting started with NodeJS by freeCodeCamp](https://guide.freecodecamp.org/miscellaneous/get-started-with-nodejs/)
-    - [Express web framework (Node.js/JavaScript)](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs)  
-    - [Nodeschool - Interactive tutorials](https://nodeschool.io/)  
-    - [You Don't Know Node - Gain in-depth understanding of how Node.JS operates](https://node.university/p/you-dont-know-node)
     
     
 ## Front-End Web Development
@@ -38,33 +27,7 @@ Find below some of the best and popular resources for learning new technologies/
          - [Neumorphism - Css shadow generator](https://neumorphism.io/#e0e0e0)
          - [HTML website templates](https://html5up.net/)
          - [Color Library](https://colorlib.com/)
- 
 
-
-- **React.js**
-     - [Video Tutorials - Beginner to Intermediate](https://www.youtube.com/watch?v=JPT3bFIwJYA&list=PL55RiY5tL51oyA8euSROLjMFZbXaV7skS)
-     - [FreeCodeCamp Articles](https://medium.freecodecamp.org/search?q=react)
-     - [Few Projects for every React Dev](https://daveceddia.com/react-practice-projects/)
-     - [Famous GitHub Repos](https://medium.mybridge.co/react-js-open-source-for-the-past-year-2018-a7c553902010)
-     - [React, The complete guide to React. Udemy Course](https://www.udemy.com/react-the-complete-guide-incl-redux/) - **PAID**
-     - [Orignal Docs](https://reactjs.org/docs/hello-world.html)
-  
-- **Vue.js**
-     - [Vue.js 2.0 Fundamentals - Youtube Playlist](https://www.youtube.com/playlist?list=PLwAKR305CRO_1yAao-8aZiQnBqJeyng4O)
-     - [Getting started with Vue](https://sabe.io/tutorials/getting-started-with-vue-js)
-     - [VueJs, The Complete guide Udemy Course](https://www.udemy.com/course/vuejs-2-the-complete-guide/) - **PAID**
-     - [Official guide](https://vuejs.org/v2/guide/)
-  
-- **Angular**
-     - [FreeCodeCamp full course on YouTube](https://www.youtube.com/watch?v=2OHbjep_WjQ&t=3774s)
-     - [The Complete guide to Angular Udemy Course](https://www.udemy.com/course/the-complete-guide-to-angular-2/) - **PAID**
-     - [Official Tutorial](https://angular.io/tutorial)
-     - [Official Docs](https://angular.io/docs)
-
-- **Svelte**
-    - [FreeCodeCamp full course on YouTube](https://www.youtube.com/watch?v=ujbE0mzX-CU)
-    - [Official Tutorial](https://svelte.dev/tutorial/basics)
-    - [Official Docs](https://svelte.dev/docs)
   
 ##  **Data Structures**
 - [Coding Interview University - Github](https://github.com/jwasham/coding-interview-university) -  **Strongly Recommended to learn DS and Computer Science fundamentals**
