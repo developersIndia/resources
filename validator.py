@@ -23,7 +23,7 @@ def get_category_list():
 
 
 def get_schema():
-    with open("reource.schema", "r") as schema:
+    with open("resource.schema", "r") as schema:
         return schema.read()
 
 
