@@ -284,6 +284,7 @@ Graphics abstraction:
 - [Regex One](https://regexone.com/)
 - [Engineering Blogs - Blogs of each and every company.](https://github.com/kilimchoi/engineering-blogs)
 - [Computer Networking by Georgia Tech](https://www.udacity.com/course/computer-networking--ud436)
+- [The Missing Semester of Your CS Education by MIT](https://missing.csail.mit.edu/)
  
 # 📜 License
 
