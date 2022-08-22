@@ -1,0 +1,34 @@
+{
+    "resources":[
+        {
+            "title":"Practical Deep Learning by fast.ai",
+            "url":"https://course.fast.ai/",
+            "type":"course",
+            "level":"everyone"
+        },
+        {
+            "title":"Top 200 deep learning Github repositories sorted by the number of stars.",
+            "url":"https://github.com/mbadry1/Top-Deep-Learning",
+            "type":"github",
+            "level":"everyone"
+        },
+        {
+            "title":"Python Data Science Handbook by Jake VanderPlas",
+            "url":"https://jakevdp.github.io/PythonDataScienceHandbook/",
+            "type":"book",
+            "level":"everyone"
+        },
+        {
+            "title":"Deep Learning course: lecture slides and lab notebooks",
+            "url":"https://m2dsupsdlclass.github.io/lectures-labs/",
+            "type":"course",
+            "level":"intermediate"
+        },
+        {
+            "title":"Deep Learning Specialization - Coursera",
+            "url":"https://www.coursera.org/specializations/deep-learning",
+            "type":"course",
+            "level":"intermediate"
+        }
+    ]
+}

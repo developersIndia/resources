@@ -10,66 +10,11 @@
 [![Discord](https://img.shields.io/discord/669880381649977354?color=blue)](https://discordapp.com/invite/MKXMSNC)
 [![Subreddit subscribers](https://img.shields.io/reddit/subreddit-subscribers/developersIndia?style=social)](https://www.reddit.com/r/developersIndia/)
 [![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fintent%2Ftweet%3Furl%3Dhttps%3A%2F%2Fgithub.com%2FdevelopersIndia%2Fwiki%26text%3DThe%2520Developers%2520India%2520Wiki%2520is%2520full%2520of%2520cool%2520resources%2520to%2520learn%2520new%2520things)](https://twitter.com/intent/tweet?url=https://github.com/developersIndia/wiki&text=Developers%20India%20Wiki%20has%20some%20cool%20resources%20!!)
-
-Find below some of the best and popular resources for learning new technologies/programming languages.
     
-    
-## Front-End Web Development
-
-[MDN's official front-end web developer learning pathway](https://developer.mozilla.org/en-US/docs/Learn/Front-end_web_developer) is a good starting point for learning front-end web development.
-  
-- **CSS**
-     - **CSS Tools**
-         - [BG-Jar](https://bgjar.com/)
-         - [CSS Buttons - Templates](https://cssbuttons.io/)
-         - [Css Wave Maker](https://getwaves.io/)
-         - [DaisyUi - Tailwind css components for free](https://daisyui.com/)
-         - [Neumorphism - Css shadow generator](https://neumorphism.io/#e0e0e0)
-         - [HTML website templates](https://html5up.net/)
-         - [Color Library](https://colorlib.com/)
-
   
 ##  **Data Structures**
 - [Coding Interview University - Github](https://github.com/jwasham/coding-interview-university) -  **Strongly Recommended to learn DS and Computer Science fundamentals**
 
-##  **Machine Learning**
- 
- > - [**Browse these links for detailed information on Machine Learning**](https://github.com/dipakkr/A-to-Z-Resources-for-Students/blob/master/ML.md)
--  **Best Online Courses**
-    - [CSE-229 - Stanford University](http://cs229.stanford.edu/)
-    - [AndrewNg Coursera](https://www.coursera.org/learn/machine-learning)
-    - [ Reinforcement Learning - Nanodegree](https://in.udacity.com/course/reinforcement-learning--ud600)
-    - [ML with Python - Youtube ](https://www.youtube.com/playlist?list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v)
-    
--  **Best Github Repositories to follow**
-    - [Self Taught Path for Data Science](https://github.com/ossu/data-science)
-
--  **Research Papers**
-    - [Arxiv](https://arxiv.org/)
-    - [IEEE](https://ieeexplore.ieee.org/Xplore/home.jsp)
-    - [Research Gate](https://www.researchgate.net/)
-    - [Academics Torrent - Search Dataset](http://academictorrents.com/)
-         
--  **Some Resourcefull Links**
-    - [ML Resources](https://sgfin.github.io/learning-resources/?fbclid=IwAR1KBG0QzDp5Jn1RBB0E9FL6trzmWc7T-rVgkfQN_TBj8VEBpB4yt1yE-Rc)
-    - [200 Best ML,NLP and Python Tutorials 2018](https://medium.com/machine-learning-in-practice/over-200-of-the-best-machine-learning-nlp-and-python-tutorials-2018-edition-dd8cf53cb7dc)
-
-##  **Deep Learning**
-
--  **Best Online Courses**
-    - [Deep Learning Specialization - Coursera](https://www.coursera.org/specializations/deep-learning)   
-    - [Deep Learning - Fast.AI](http://course.fast.ai/)
-    
--  **Best Github Repositories to follow**
-    - [Top -200 Github Repos in Deep learning](https://github.com/mbadry1/Top-Deep-Learning)    
-    - [DensePose - FB Research](https://github.com/facebookresearch/DensePose)
-    - [Data Science HandBook](https://github.com/jakevdp/PythonDataScienceHandbook)
-    - [Tensorflow Project Template](https://github.com/MrGemy95/Tensorflow-Project-Template)
-    - [VisualDL](https://github.com/PaddlePaddle/VisualDL)
-    - [Caire - Content aware image resize library ](https://github.com/esimov/caire)
-    
--  **Lecture Slides**
-    - [Master Data Science PARIS-SACLAY](https://m2dsupsdlclass.github.io/lectures-labs/)
     
 ## Algorithms & Data Structures (E-Books)
 
