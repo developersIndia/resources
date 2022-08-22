@@ -58,7 +58,10 @@
             "title":"Progate Python Classes",
             "url":"https://progate.com/languages/python",
             "type":"article",
-            "level":"beginner"
+            "level":"beginner",
+            "reviews":[
+                "Good for absolute begineers"
+            ]
         },
         {
             "title":"Python Spot",

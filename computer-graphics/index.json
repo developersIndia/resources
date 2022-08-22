@@ -58,7 +58,10 @@
             "title":"learnopengl.com",
             "url":"https://learnopengl.com/",
             "type":"book",
-            "level":"everyone"
+            "level":"everyone",
+            "reviews":[
+                "You should only follow concepts here, not api"
+            ]
         }
     ]
 }

@@ -11,67 +11,8 @@
 [![Subreddit subscribers](https://img.shields.io/reddit/subreddit-subscribers/developersIndia?style=social)](https://www.reddit.com/r/developersIndia/)
 [![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fintent%2Ftweet%3Furl%3Dhttps%3A%2F%2Fgithub.com%2FdevelopersIndia%2Fwiki%26text%3DThe%2520Developers%2520India%2520Wiki%2520is%2520full%2520of%2520cool%2520resources%2520to%2520learn%2520new%2520things)](https://twitter.com/intent/tweet?url=https://github.com/developersIndia/wiki&text=Developers%20India%20Wiki%20has%20some%20cool%20resources%20!!)
     
-  
-##  **Data Structures**
-- [Coding Interview University - Github](https://github.com/jwasham/coding-interview-university) -  **Strongly Recommended to learn DS and Computer Science fundamentals**
 
-    
-## Algorithms & Data Structures (E-Books)
 
-* [A Field Guide To Genetic Programming](http://dces.essex.ac.uk/staff/rpoli/gp-field-guide/toc.html) - Riccardo Poli et al.
-* [Algorithmic Graph Theory](http://code.google.com/p/graphbook/)
-* [Algorithms](https://en.wikibooks.org/wiki/Algorithms) - Wikibooks
-* [Algorithms, 4th Edition](http://algs4.cs.princeton.edu/home/) - Robert Sedgewick and Kevin Wayne
-* [Algorithms and Automatic Computing Machines (1963)](https://archive.org/details/Algorithms_And_Automatic_Computing_Machines) - B. A. Trakhtenbrot
-* [Algorithms and Complexity](https://www.math.upenn.edu/~wilf/AlgoComp.pdf) - Herbert S. Wilf (PDF)
-* [Algorithms Course Materials](http://jeffe.cs.illinois.edu/teaching/algorithms/) - Jeff Erickson
-* [Analysis and Design of Algorithms](http://www.cse.iitd.ernet.in/~ssen/csl356/admin356.html) - Sandeep Sen, IIT Delhi
-* [Animated Algorithm and Data Structure Visualization](http://visualgo.net) (Resource)
-* [Annotated Algorithms in Python: Applications in Physics, Biology, and Finance](https://github.com/mdipierro/nlib) - Massimo di Pierro
-* [Binary Trees](http://cslibrary.stanford.edu/110/BinaryTrees.pdf) (PDF)
-* [Clever Algorithms](https://raw.githubusercontent.com/clever-algorithms/CleverAlgorithms/master/release/clever_algorithms.pdf) - Jason Brownlee (PDF)
-* [CS Unplugged: Computer Science without a computer](http://csunplugged.org/books/)
-* [Data Structures](http://www.cse.iitd.ernet.in/~suban/cs130/index.html) - Prof. Subhashis Banerjee, IIT Delhi
-* [Data Structures (Into Java) - Paul N. Hilfinger](https://inst.eecs.berkeley.edu//~cs61b/fa14/book2/data-structures.pdf) (PDF)
-* [Data Structures and Algorithms: Annotated Reference with Examples](https://web.archive.org/web/20180727114316/http://lib.mdp.ac.id/ebook/Karya%20Umum/Dsa.pdf) - G. Barnett and L. Del Tongo (PDF, Web Archive)
-* [Data Structures Succinctly Part 1, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/datastructurespart1) (PDF, Kindle) (email address *requested*, not required)
-* [Data Structures Succinctly Part 2, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/datastructurespart2) (PDF, Kindle) (email address *requested*, not required)
-* [Elementary Algorithms](https://github.com/liuxinyu95/AlgoXY) - Larry LIU Xinyu
-* [Foundations of Computer Science](http://infolab.stanford.edu/~ullman/focs.html) - Al Aho and Jeff Ullman
-* [Geometry Algorithms](http://geomalgorithms.com) - Dan Sunday
-* [Handbook of Graph Drawing and Visualization](https://web.archive.org/web/20170801080631/http://cs.brown.edu/~rt/gdhandbook/) - (Web Archive)
-* [Lectures Notes on Algorithm Analysis and Computational Complexity (Fourth Edition)](https://web.archive.org/web/20190218143940/https://larc.unt.edu/ian/books/free/license.html) - Ian Parberry (use form at bottom of license) (Web Archive)
-* [LEDA: A Platform for Combinatorial and Geometric Computing](http://people.mpi-inf.mpg.de/~mehlhorn/LEDAbook.html) - K. Mehlhorn et al.
-* [Linked List Basics](http://cslibrary.stanford.edu/103/LinkedListBasics.pdf) (PDF)
-* [Linked List Problems](http://cslibrary.stanford.edu/105/LinkedListProblems.pdf) (PDF)
-* [Matters Computational: Ideas, Algorithms, Source Code](http://www.jjj.de/fxt/fxtbook.pdf) (PDF)
-* [Open Data Structures: An Introduction](http://opendatastructures.org) - Pat Morin
-* [Planning Algorithms](http://planning.cs.uiuc.edu)
-* [Purely Functional Data Structures (1996)](https://web.archive.org/web/20210404195928/http://www.cs.cmu.edu/~rwh/theses/okasaki.pdf) - Chris Okasaki (PDF) (Web Archive)
-* [Sequential and parallel sorting algorithms](http://www.inf.fh-flensburg.de/lang/algorithmen/sortieren/algoen.htm)
-* [Text Algorithms](http://igm.univ-mlv.fr/~mac/REC/text-algorithms.pdf) (PDF)
-* [The Algorithm Design Manual](http://www8.cs.umu.se/kurser/TDBAfl/VT06/algorithms/BOOK/BOOK/BOOK.HTM)
-* [The Art of Computer Programming](https://web.archive.org/web/20190407180500/http://www.cs.utsa.edu/~wagner/knuth/) - Donald Knuth (fascicles, mostly volume 4) (Web Archive)
-* [The Design of Approximation Algorithms](http://www.designofapproxalgs.com/book.pdf) (PDF)
-* [The Great Tree List Recursion Problem](http://cslibrary.stanford.edu/109/TreeListRecursion.pdf) (PDF)
-* [Think Complexity](http://greenteapress.com/complexity/) (PDF)
-
-## Miscellaneous
-
-- [How HTTPS Works](https://howhttps.works/)
-- [How DNS Works](https://howdns.works/)
-- [Stanford CS Education Library](http://cslibrary.stanford.edu/)
-- [Git.WTF](https://git.wtf/)
-- [Oh shit, git!](https://ohshitgit.com/)
-- [OpenStax Textbooks](https://cnx.org/)
-- [Computer-Science-Resources](https://github.com/the-akira/Computer-Science-Resources.git)
-- [every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know)
-- [97 Things Every Programmer Should Know](https://97-things-every-x-should-know.gitbooks.io/97-things-every-programmer-should-know/en/)
-- [Learn Regex: From Simple to Advanced.](https://regexlearn.com/)
-- [Regex One](https://regexone.com/)
-- [Engineering Blogs - Blogs of each and every company.](https://github.com/kilimchoi/engineering-blogs)
-- [Computer Networking by Georgia Tech](https://www.udacity.com/course/computer-networking--ud436)
- 
 # 📜 License
 
 This project is licensed under the GPL-3.0 License. See the [LICENSE](LICENSE) file for details.
