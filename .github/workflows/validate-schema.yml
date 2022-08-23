@@ -1,0 +1,22 @@
+name: Validate JSON Schemas
+on:
+  push:
+    branches: [ master ]
+  pull_request:
+    branches: [ master ]
+
+      
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+      - name: Install dependencies
+        run: |
+          python3 -m pip install --upgrade pip
+          pip install flake8 pytest
+          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+      - name: Validate Resource Schemas
+        run: |
+          python3 validator.py

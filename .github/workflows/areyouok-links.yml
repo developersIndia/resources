@@ -16,8 +16,5 @@ jobs:
           wget -q https://github.com/Bhupesh-V/areyouok/releases/latest/download/areyouok-linux-amd64
           chmod +x areyouok-linux-amd64
           ./areyouok-linux-amd64 -i=_layouts,.git,_site,build.py,USAGE.md -r=github
-      - name: Create issue if broken links found
-        uses: peter-evans/create-issue-from-file@v2
-        with:
-          title: Broken URLs report
-          content-filepath: ./report.github
+      - name: Publish Data as Job Summary
+        run: cat report.github >> $GITHUB_STEP_SUMMARY
