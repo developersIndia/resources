@@ -1,6 +1,6 @@
 {
     "$schema": "https://json-schema.org/draft/2020-12/schema",
-    "id": "https://example.com/product.schema.json",
+    "$id": "https://github.com/developersIndia/resources/blob/master/resource.schema",
     "title": "DevelopersIndia Resources Repository Schema",
     "description": "This schema describes the structure of a resource availble on DevelopersIndia",
     "type": "object",
