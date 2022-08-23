@@ -1,0 +1,55 @@
+{
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "id": "https://example.com/product.schema.json",
+    "title": "DevelopersIndia Resources Repository Schema",
+    "description": "This schema describes the structure of a resource availble on DevelopersIndia",
+    "type": "object",
+    "properties": {
+        "resources": {
+            "description": "The JSON list storing all the resources",
+            "type": "array",
+            "items": {
+                "type": "object",
+                "properties": {
+                    "title": {
+                        "description": "The title of resource link",
+                        "type": "string"
+                    },
+                    "url": {
+                        "description": "The permalink to the resource",
+                        "type": "string",
+                        "format": "uri"
+                    },
+                    "type": {
+                        "description": "What type of resource is this?",
+                        "type": "string",
+                        "pattern": "(video|article|book|github|course|audio|cheatsheet|website)"
+                    },
+                    "level": {
+                        "description": "What kind of audience does this resource suits?",
+                        "type": "string",
+                        "pattern": "(beginner|intermediate|advanced|everyone)"
+                    },
+                    "reviews": {
+                        "type": "array",
+                        "items": {
+                            "type": "string",
+                            "minLength": 10
+                        }
+                    }
+                },
+                "required": [
+                    "title",
+                    "url",
+                    "type",
+                    "level"
+                ]
+            },
+            "minItems": 1,
+            "uniqueItems": true
+        }
+    },
+    "required": [
+        "resources"
+    ]
+}

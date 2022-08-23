@@ -1,0 +1,10 @@
+{
+    "resources":[
+        {
+            "title":"Examples of Simple basic isolated apps, for budding flutter devs.",
+            "url":"https://github.com/nisrulz/flutter-examples",
+            "type":"github",
+            "level":"beginner"
+        }
+    ]
+}

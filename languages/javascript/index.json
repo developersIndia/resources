@@ -1,0 +1,100 @@
+{
+    "resources":[
+        {
+            "title":"MDN's Guide to Learning JS",
+            "url":"https://developer.mozilla.org/en-US/docs/Learn/JavaScript",
+            "type":"article",
+            "level":"beginner"
+        },
+        {
+            "title":"Google OpenClassroom for JavaScript",
+            "url":"https://learndigital.withgoogle.com/digitalgarage/course/learn-programming-with-javascript",
+            "type":"course",
+            "level":"beginner"
+        },
+        {
+            "title":"JavaScript Algorithms & Data Structures",
+            "url":"https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/",
+            "type":"course",
+            "level":"beginner"
+        },
+        {
+            "title":"The Modern JavaScript Tutorial",
+            "url":"https://javascript.info/",
+            "type":"article",
+            "level": "beginner"
+        },
+        {
+            "title":"ReactJS Basics by Academind",
+            "url":"https://www.youtube.com/playlist?list=PL55RiY5tL51oyA8euSROLjMFZbXaV7skS" ,
+            "type":"video",
+            "level":"beginner"
+        },
+        {
+            "title":"React - The Complete Guide (incl Hooks, React Router, Redux)",
+            "url":"https://www.udemy.com/course/react-the-complete-guide-incl-redux/",
+            "type":"course",
+            "level":"intermediate"
+        },
+        {
+            "title":"Vue.js Fundamentals",
+            "url":"https://www.youtube.com/playlist?list=PLwAKR305CRO_1yAao-8aZiQnBqJeyng4O",
+            "type":"video",
+            "level":"beginner"
+        },
+        {
+            "title":"Getting started with Vue",
+            "url":"https://sabe.io/tutorials/getting-started-with-vue-js",
+            "type":"article",
+            "level":"beginner"
+        },
+        {
+            "title":"Vue - The Complete Guide (incl. Router & Composition API)",
+            "url":"https://www.udemy.com/course/vuejs-2-the-complete-guide/",
+            "type":"course",
+            "level":"everyone"
+        },
+        {
+            "title":"Learn Angular - Full 6h Tutorial Course by FreeCodeCamp",
+            "url":"https://www.youtube.com/watch?v=2OHbjep_WjQ&t=3774s",
+            "type":"video",
+            "level":"everyone"
+        },
+        {
+            "title":"Angular - The Complete Guide (2022 Edition)",
+            "url":"https://www.udemy.com/course/the-complete-guide-to-angular-2/",
+            "type":"course",
+            "level":"everyone"
+        },
+        {
+            "title":"Learn the Svelte JavaScript Framework - Full 7h Course by FreeCodeCamp",
+            "url":"https://www.youtube.com/watch?v=ujbE0mzX-CU",
+            "type":"video",
+            "level":"everyone"
+        },
+        {
+            "title":"Introduction to NodeJS by Microsoft",
+            "url":"https://www.edx.org/course/introduction-to-nodejs",
+            "type":"course",
+            "level":"beginner"
+        },
+        {
+            "title":"Express web framework (Node.js/JavaScript) by MDN",
+            "url":"https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs",
+            "type":"article",
+            "level":"beginner"
+        },
+        {
+            "title":"The Complete Node.js Developer Course (3rd Edition)",
+            "url":"https://www.udemy.com/course/the-complete-nodejs-developer-course-2/",
+            "type":"course",
+            "level":"beginner"
+        },
+        {
+            "title":"You Don’t Know Node: Quick Intro to Core Features",
+            "url":"https://webapplog.com/you-dont-know-node/",
+            "type":"article",
+            "level":"everyone"
+        }
+    ]
+}
