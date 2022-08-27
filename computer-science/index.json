@@ -1,22 +1,22 @@
 {
-    "resources":[
+    "resources": [
         {
-            "title":"Stanford CS Education Library",
-            "url":"http://cslibrary.stanford.edu/",
-            "type":"website",
-            "level":"everyone"
+            "title": "Stanford CS Education Library",
+            "url": "http://cslibrary.stanford.edu/",
+            "type": "website",
+            "level": "everyone"
         },
         {
-            "title":"CS Resources - A list of resources in different fields of Computer Science",
-            "url":"https://github.com/the-akira/Computer-Science-Resources.git",
-            "type":"github",
-            "level":"everyone"
+            "title": "CS Resources - A list of resources in different fields of Computer Science",
+            "url": "https://github.com/the-akira/Computer-Science-Resources.git",
+            "type": "github",
+            "level": "everyone"
         },
         {
-            "title":"CS Unplugged: Computer Science without a computer",
-            "url":"https://classic.csunplugged.org/books/",
-            "type":"book",
-            "level":"beginner"
+            "title": "CS Unplugged: Computer Science without a computer",
+            "url": "https://classic.csunplugged.org/books/",
+            "type": "book",
+            "level": "beginner"
         }
     ]
 }

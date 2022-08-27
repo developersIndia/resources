@@ -1,65 +1,65 @@
 {
-    "resources":[
+    "resources": [
         {
-            "title":"Scratchapixel",
-            "url":"https://www.scratchapixel.com/",
-            "type":"article",
-            "level":"everyone"
+            "title": "Scratchapixel",
+            "url": "https://www.scratchapixel.com/",
+            "type": "article",
+            "level": "everyone"
         },
         {
-            "title":"Peter Shirley raytracing trilogy",
-            "url":"https://raytracing.github.io/",
-            "type":"book",
-            "level":"everyone"
+            "title": "Peter Shirley raytracing trilogy",
+            "url": "https://raytracing.github.io/",
+            "type": "book",
+            "level": "everyone"
         },
         {
-            "title":"3D Graphics: Crash Course Computer Science",
-            "url":"https://www.youtube.com/watch?v=TEAtmCYYKZA",
-            "type":"video",
-            "level":"everyone"
+            "title": "3D Graphics: Crash Course Computer Science",
+            "url": "https://www.youtube.com/watch?v=TEAtmCYYKZA",
+            "type": "video",
+            "level": "everyone"
         },
         {
-            "title":"How Rendering Graphics Works in Games!",
-            "url":"https://www.youtube.com/watch?v=cvcAjgMUPUA",
-            "type":"video",
-            "level":"everyone"
+            "title": "How Rendering Graphics Works in Games!",
+            "url": "https://www.youtube.com/watch?v=cvcAjgMUPUA",
+            "type": "video",
+            "level": "everyone"
         },
         {
-            "title":"Introduction to Computer Graphics by Cem Yuksel, University of Utah",
-            "url":"https://www.youtube.com/playlist?list=PLplnkTzzqsZTfYh4UbhLGpI5kGd5oW_Hh",
-            "type":"video",
-            "level":"everyone"
+            "title": "Introduction to Computer Graphics by Cem Yuksel, University of Utah",
+            "url": "https://www.youtube.com/playlist?list=PLplnkTzzqsZTfYh4UbhLGpI5kGd5oW_Hh",
+            "type": "video",
+            "level": "everyone"
         },
         {
-            "title":"Introduction to Game Development with Unity and C#",
-            "url":"https://www.youtube.com/playlist?list=PLFt_AvWsXl0fnA91TcmkRyhhixX9CO3Lw",
-            "type":"video",
-            "level":"everyone"
+            "title": "Introduction to Game Development with Unity and C#",
+            "url": "https://www.youtube.com/playlist?list=PLFt_AvWsXl0fnA91TcmkRyhhixX9CO3Lw",
+            "type": "video",
+            "level": "everyone"
         },
         {
-            "title":"3D Rendering Tutorial Series by Bisqwit",
-            "url":"https://www.youtube.com/playlist?list=PLzLzYGEbdY5nla16U99NTLCLch1ZCxT_4",
-            "type":"video",
-            "level":"everyone"
+            "title": "3D Rendering Tutorial Series by Bisqwit",
+            "url": "https://www.youtube.com/playlist?list=PLzLzYGEbdY5nla16U99NTLCLch1ZCxT_4",
+            "type": "video",
+            "level": "everyone"
         },
         {
-            "title":"Math for Game Devs by Freya Holmér",
-            "url":"https://www.youtube.com/playlist?list=PLImQaTpSAdsD88wprTConznD1OY1EfK_V",
-            "type":"video",
-            "level":"everyone"
+            "title": "Math for Game Devs by Freya Holm\u00e9r",
+            "url": "https://www.youtube.com/playlist?list=PLImQaTpSAdsD88wprTConznD1OY1EfK_V",
+            "type": "video",
+            "level": "everyone"
         },
         {
-            "title":"OpenGL Tutorials by ThinMatrix",
-            "url":"https://www.youtube.com/c/ThinMatrix/playlists?view=50&sort=dd&shelf_id=4",
-            "type":"video",
-            "level":"everyone"
+            "title": "OpenGL Tutorials by ThinMatrix",
+            "url": "https://www.youtube.com/c/ThinMatrix/playlists?view=50&sort=dd&shelf_id=4",
+            "type": "video",
+            "level": "everyone"
         },
         {
-            "title":"learnopengl.com",
-            "url":"https://learnopengl.com/",
-            "type":"book",
-            "level":"everyone",
-            "reviews":[
+            "title": "learnopengl.com",
+            "url": "https://learnopengl.com/",
+            "type": "book",
+            "level": "everyone",
+            "reviews": [
                 "You should only follow concepts here, not api"
             ]
         }

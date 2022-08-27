@@ -1,118 +1,118 @@
 {
-    "resources":[
+    "resources": [
         {
-            "title":"learncpp.com",
-            "url":"https://www.learncpp.com/",
-            "type":"website",
-            "level":"everyone"
+            "title": "learncpp.com",
+            "url": "https://www.learncpp.com/",
+            "type": "website",
+            "level": "everyone"
         },
         {
-            "title":"cppreference.com",
-            "url":"https://en.cppreference.com/w/",
-            "type":"website",
-            "level":"everyone"
+            "title": "cppreference.com",
+            "url": "https://en.cppreference.com/w/",
+            "type": "website",
+            "level": "everyone"
         },
         {
-            "title":"cplusplus.com",
-            "url":"http://www.cplusplus.com/",
-            "type":"website",
-            "level":"everyone"
+            "title": "cplusplus.com",
+            "url": "http://www.cplusplus.com/",
+            "type": "website",
+            "level": "everyone"
         },
         {
-            "title":"isocpp FAQ",
-            "url":"https://isocpp.org/faq",
-            "type":"website",
-            "level":"intermediate"
+            "title": "isocpp FAQ",
+            "url": "https://isocpp.org/faq",
+            "type": "website",
+            "level": "intermediate"
         },
         {
-            "title":"C++ Patterns",
-            "url":"https://cpppatterns.com/",
-            "type":"website",
-            "level":"everyone"
+            "title": "C++ Patterns",
+            "url": "https://cpppatterns.com/",
+            "type": "website",
+            "level": "everyone"
         },
         {
-            "title":"Buckys C++ Programming Tutorials",
-            "url":"https://www.youtube.com/playlist?list=PLAE85DE8440AA6B83",
-            "type":"video",
-            "level":"beginner"
+            "title": "Buckys C++ Programming Tutorials",
+            "url": "https://www.youtube.com/playlist?list=PLAE85DE8440AA6B83",
+            "type": "video",
+            "level": "beginner"
         },
         {
-            "title":"C++ Tutorial for Beginners - Full Course by FreeCodeCamp",
-            "url":"https://www.youtube.com/watch?v=vLnPwxZdW4Y",
-            "type":"video",
-            "level":"beginner"
+            "title": "C++ Tutorial for Beginners - Full Course by FreeCodeCamp",
+            "url": "https://www.youtube.com/watch?v=vLnPwxZdW4Y",
+            "type": "video",
+            "level": "beginner"
         },
         {
-            "title":"C++ playlist by TheChernoProject",
-            "url":"https://www.youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb",
-            "type":"video",
-            "level":"everyone"
+            "title": "C++ playlist by TheChernoProject",
+            "url": "https://www.youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb",
+            "type": "video",
+            "level": "everyone"
         },
         {
-            "title":"C++ playlist by DerekBanas",
-            "url":"https://www.youtube.com/playlist?list=PLGLfVvz_LVvQ9S8YSV0iDsuEU8v11yP9M",
-            "type":"video",
-            "level":"beginner"
+            "title": "C++ playlist by DerekBanas",
+            "url": "https://www.youtube.com/playlist?list=PLGLfVvz_LVvQ9S8YSV0iDsuEU8v11yP9M",
+            "type": "video",
+            "level": "beginner"
         },
         {
-            "title":"C++ Weekly - Jason Turner",
-            "url":"https://www.youtube.com/playlist?list=PLs3KjaCtOwSZ2tbuV1hx8Xz-rFZTan2J1",
-            "type":"video",
-            "level":"advanced"
+            "title": "C++ Weekly - Jason Turner",
+            "url": "https://www.youtube.com/playlist?list=PLs3KjaCtOwSZ2tbuV1hx8Xz-rFZTan2J1",
+            "type": "video",
+            "level": "advanced"
         },
         {
-            "title":"vector<bool>{ true, true, false };",
-            "url":"https://vector-of-bool.github.io/",
-            "type":"article",
-            "level":"advanced"
+            "title": "vector<bool>{ true, true, false };",
+            "url": "https://vector-of-bool.github.io/",
+            "type": "article",
+            "level": "advanced"
         },
         {
-            "title":"foonathan::blog()",
-            "url":"https://foonathan.net/index.html",
-            "type":"article",
-            "level":"advanced"
+            "title": "foonathan::blog()",
+            "url": "https://foonathan.net/index.html",
+            "type": "article",
+            "level": "advanced"
         },
         {
-            "title":"Vorbrodt's C++ Blog",
-            "url":"https://vorbrodt.blog/",
-            "type":"article",
-            "level":"advanced"
+            "title": "Vorbrodt's C++ Blog",
+            "url": "https://vorbrodt.blog/",
+            "type": "article",
+            "level": "advanced"
         },
         {
-            "title":"Thoughts on CPP",
-            "url":"https://web.archive.org/web/20211227133144/https://thoughts-on-coding.com/",
-            "type":"article",
-            "level":"advanced"
+            "title": "Thoughts on CPP",
+            "url": "https://web.archive.org/web/20211227133144/https://thoughts-on-coding.com/",
+            "type": "article",
+            "level": "advanced"
         },
         {
-            "title":"Sutter’s Mill Guru of the Week (GotW) C++ Series",
-            "url":"https://herbsutter.com/gotw/",
-            "type":"article",
-            "level":"advanced"
+            "title": "Sutter\u2019s Mill Guru of the Week (GotW) C++ Series",
+            "url": "https://herbsutter.com/gotw/",
+            "type": "article",
+            "level": "advanced"
         },
         {
-            "title":"Kenny Kerr's Articles",
-            "url":"https://kennykerr.ca/articles/",
-            "type":"article",
-            "level":"advanced"
+            "title": "Kenny Kerr's Articles",
+            "url": "https://kennykerr.ca/articles/",
+            "type": "article",
+            "level": "advanced"
         },
         {
-            "title":"Bartek's Coding Blog",
-            "url":"https://www.bfilipek.com/?m=1",
-            "type":"article",
-            "level":"advanced"
+            "title": "Bartek's Coding Blog",
+            "url": "https://www.bfilipek.com/?m=1",
+            "type": "article",
+            "level": "advanced"
         },
         {
-            "title":"Fluent C++",
-            "url":"https://www.fluentcpp.com/",
-            "type":"article",
-            "level":"advanced"
+            "title": "Fluent C++",
+            "url": "https://www.fluentcpp.com/",
+            "type": "article",
+            "level": "advanced"
         },
         {
-            "title":"Simplify C++",
-            "url":"https://arne-mertz.de/",
-            "type":"article",
-            "level":"advanced"
+            "title": "Simplify C++",
+            "url": "https://arne-mertz.de/",
+            "type": "article",
+            "level": "advanced"
         }
     ]
 }

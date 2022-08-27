@@ -1,28 +1,28 @@
 {
-    "resources":[
+    "resources": [
         {
-            "title":"C Reference Cheat Sheet by Ashlyn Black",
-            "url":"https://www.cheatography.com/ashlyn-black/cheat-sheets/c-reference",
-            "type":"cheatsheet",
-            "level":"beginner"
+            "title": "C Reference Cheat Sheet by Ashlyn Black",
+            "url": "https://www.cheatography.com/ashlyn-black/cheat-sheets/c-reference",
+            "type": "cheatsheet",
+            "level": "beginner"
         },
         {
-            "title":"Let us C by Yashavant Kanetkar",
-            "url":"https://www.amazon.in/Let-Us-16TH-Yashavant-Kanetkar/dp/9387284492",
-            "type":"book",
-            "level":"beginner"
+            "title": "Let us C by Yashavant Kanetkar",
+            "url": "https://www.amazon.in/Let-Us-16TH-Yashavant-Kanetkar/dp/9387284492",
+            "type": "book",
+            "level": "beginner"
         },
         {
-            "title":"Understanding Pointers In C & C++: Fully Working Examples And Applications Of Pointers",
-            "url":"https://www.amazon.in/Understanding-Pointers-Revised-examples-Applications/dp/B07HLV4JVL",
-            "type":"book",
-            "level":"intermediate"
+            "title": "Understanding Pointers In C & C++: Fully Working Examples And Applications Of Pointers",
+            "url": "https://www.amazon.in/Understanding-Pointers-Revised-examples-Applications/dp/B07HLV4JVL",
+            "type": "book",
+            "level": "intermediate"
         },
         {
-            "title":"Understanding and Using C Pointers by Richard Reese",
-            "url":"https://www.amazon.in/Understanding-Using-Pointers-Richard-Reese/dp/1449344186/",
-            "type":"book",
-            "level":"intermediate"
+            "title": "Understanding and Using C Pointers by Richard Reese",
+            "url": "https://www.amazon.in/Understanding-Using-Pointers-Richard-Reese/dp/1449344186/",
+            "type": "book",
+            "level": "intermediate"
         }
     ]
 }

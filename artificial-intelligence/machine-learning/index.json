@@ -1,46 +1,46 @@
 {
-    "resources":[
+    "resources": [
         {
-            "title":"A to Z ML Resources for Students",
-            "url":"https://github.com/dipakkr/A-to-Z-Resources-for-Students/blob/master/ML.md",
-            "type":"github",
-            "level":"beginner"
+            "title": "A to Z ML Resources for Students",
+            "url": "https://github.com/dipakkr/A-to-Z-Resources-for-Students/blob/master/ML.md",
+            "type": "github",
+            "level": "beginner"
         },
         {
-            "title":"CSE-229 - Stanford University",
-            "url":"https://cs229.stanford.edu/",
-            "type":"course",
-            "level":"everyone"
+            "title": "CSE-229 - Stanford University",
+            "url": "https://cs229.stanford.edu/",
+            "type": "course",
+            "level": "everyone"
         },
         {
-            "title":"Machine Learning by AndrewNg (Coursera)",
-            "url":"https://www.coursera.org/learn/machine-learning",
-            "type":"course",
-            "level":"everyone"
+            "title": "Machine Learning by AndrewNg (Coursera)",
+            "url": "https://www.coursera.org/learn/machine-learning",
+            "type": "course",
+            "level": "everyone"
         },
         {
-            "title":"Reinforcement Learning by Georgia Institute of Technology",
-            "url":"https://in.udacity.com/course/reinforcement-learning--ud600",
-            "type":"course",
-            "level":"intermediate"
+            "title": "Reinforcement Learning by Georgia Institute of Technology",
+            "url": "https://in.udacity.com/course/reinforcement-learning--ud600",
+            "type": "course",
+            "level": "intermediate"
         },
         {
-            "title":"ML with Python by sentdex",
-            "url":"https://www.youtube.com/playlist?list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v",
-            "type":"video",
-            "level":"everyone"
+            "title": "ML with Python by sentdex",
+            "url": "https://www.youtube.com/playlist?list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v",
+            "type": "video",
+            "level": "everyone"
         },
         {
-            "title":"Self Taught Path for Data Science",
-            "url":"https://github.com/ossu/data-science",
-            "type":"github",
-            "level":"everyone"
+            "title": "Self Taught Path for Data Science",
+            "url": "https://github.com/ossu/data-science",
+            "type": "github",
+            "level": "everyone"
         },
         {
-            "title":"ML Resources",
-            "url":"https://sgfin.github.io/learning-resources/",
-            "type":"article",
-            "level":"everyone"
+            "title": "ML Resources",
+            "url": "https://sgfin.github.io/learning-resources/",
+            "type": "article",
+            "level": "everyone"
         }
     ]
 }

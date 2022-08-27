@@ -1,34 +1,34 @@
 {
-    "resources":[
+    "resources": [
         {
-            "title":"How HTTPS Works",
-            "url":"https://howhttps.works/",
-            "type":"website",
-            "level":"everyone"
+            "title": "How HTTPS Works",
+            "url": "https://howhttps.works/",
+            "type": "website",
+            "level": "everyone"
         },
         {
-            "title":"How DNS Works",
-            "url":"https://howdns.works/",
-            "type":"website",
-            "level":"everyone"
+            "title": "How DNS Works",
+            "url": "https://howdns.works/",
+            "type": "website",
+            "level": "everyone"
         },
         {
-            "title":"Every Programmer Should Know 🤔: A collection of (mostly) technical things every software developer should know about",
-            "url":"https://github.com/mtdvio/every-programmer-should-know",
-            "type":"github",
-            "level":"everyone"
+            "title": "Every Programmer Should Know: A collection of (mostly) technical things every software developer should know about",
+            "url": "https://github.com/mtdvio/every-programmer-should-know",
+            "type": "github",
+            "level": "everyone"
         },
         {
-            "title":"97 Things Every Programmer Should Know - Pearls of wisdom for programmers collected from leading practitioners.",
-            "url":"https://97-things-every-x-should-know.gitbooks.io/97-things-every-programmer-should-know/content/en/",
-            "type":"website",
-            "level":"everyone"
+            "title": "97 Things Every Programmer Should Know - Pearls of wisdom for programmers collected from leading practitioners.",
+            "url": "https://97-things-every-x-should-know.gitbooks.io/97-things-every-programmer-should-know/content/en/",
+            "type": "website",
+            "level": "everyone"
         },
         {
-            "title":"Computer Networking by Georgia Tech",
-            "url":"https://www.udacity.com/course/computer-networking--ud436",
-            "type":"course",
-            "level":"everyone"
+            "title": "Computer Networking by Georgia Tech",
+            "url": "https://www.udacity.com/course/computer-networking--ud436",
+            "type": "course",
+            "level": "everyone"
         }
     ]
 }

@@ -1,17 +1,16 @@
 {
-    "resources":[
+    "resources": [
         {
-            "title":"Git.WTF",
-            "url":"https://git.wtf/",
-            "type":"website",
-            "level":"everyone"
+            "title": "Git.WTF",
+            "url": "https://git.wtf/",
+            "type": "website",
+            "level": "everyone"
         },
         {
-            "title":"Oh shit, git!",
-            "url":"https://ohshitgit.com/",
-            "type":"website",
-            "level":"everyone"
+            "title": "Oh shit, git!",
+            "url": "https://ohshitgit.com/",
+            "type": "website",
+            "level": "everyone"
         }
-
     ]
 }

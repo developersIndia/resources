@@ -1,151 +1,151 @@
 {
-    "resources":[
+    "resources": [
         {
-            "title":"Coding Interview University",
-            "url":"https://github.com/jwasham/coding-interview-university",
-            "type":"github",
-            "level":"everyone",
-            "reviews":[
+            "title": "Coding Interview University",
+            "url": "https://github.com/jwasham/coding-interview-university",
+            "type": "github",
+            "level": "everyone",
+            "reviews": [
                 "Strongly Recommended to learn DS and Computer Science fundamentals"
             ]
         },
         {
-            "title":"Algorithmic Graph Theory",
-            "url":"http://code.google.com/p/graphbook/",
-            "type":"book",
-            "level":"intermediate"
+            "title": "Algorithmic Graph Theory",
+            "url": "http://code.google.com/p/graphbook/",
+            "type": "book",
+            "level": "intermediate"
         },
         {
-            "title":"Algorithms {fundamental techniques}",
-            "url":"https://en.wikibooks.org/wiki/Algorithms",
-            "type":"book",
-            "level":"everyone"
+            "title": "Algorithms {fundamental techniques}",
+            "url": "https://en.wikibooks.org/wiki/Algorithms",
+            "type": "book",
+            "level": "everyone"
         },
         {
-            "title":"Algorithms, 4th Edition",
-            "url":"http://algs4.cs.princeton.edu/home/",
-            "type":"book",
-            "level":"everyone"
+            "title": "Algorithms, 4th Edition",
+            "url": "http://algs4.cs.princeton.edu/home/",
+            "type": "book",
+            "level": "everyone"
         },
         {
-            "title":"Algorithms and Automatic Computing Machines (1963)",
-            "url":"https://archive.org/details/Algorithms_And_Automatic_Computing_Machines/mode/2up",
-            "type":"book",
-            "level":"everyone"
+            "title": "Algorithms and Automatic Computing Machines (1963)",
+            "url": "https://archive.org/details/Algorithms_And_Automatic_Computing_Machines/mode/2up",
+            "type": "book",
+            "level": "everyone"
         },
         {
-            "title":"Algorithms and Complexity by Herbert S. Wilf (University of Pennsylvania)",
-            "url":"https://www2.math.upenn.edu/~wilf/AlgoComp.pdf",
-            "type":"book",
-            "level":"everyone"
+            "title": "Algorithms and Complexity by Herbert S. Wilf (University of Pennsylvania)",
+            "url": "https://www2.math.upenn.edu/~wilf/AlgoComp.pdf",
+            "type": "book",
+            "level": "everyone"
         },
         {
-            "title":"Algorithms Course Materials by Jeff Erickson (University of Illinois)",
-            "url":"https://jeffe.cs.illinois.edu/teaching/algorithms/#book",
-            "type":"book",
-            "level":"everyone"
+            "title": "Algorithms Course Materials by Jeff Erickson (University of Illinois)",
+            "url": "https://jeffe.cs.illinois.edu/teaching/algorithms/#book",
+            "type": "book",
+            "level": "everyone"
         },
         {
-            "title":"VisuAlgo.net - visualising data structures and algorithms through animation",
-            "url":"https://visualgo.net/en",
-            "type":"website",
-            "level":"everyone"
+            "title": "VisuAlgo.net - visualising data structures and algorithms through animation",
+            "url": "https://visualgo.net/en",
+            "type": "website",
+            "level": "everyone"
         },
         {
-            "title":"Annotated Algorithms in Python: Applications in Physics, Biology, and Finance",
-            "url":"https://github.com/mdipierro/nlib",
-            "type":"github",
-            "level":"everyone"
+            "title": "Annotated Algorithms in Python: Applications in Physics, Biology, and Finance",
+            "url": "https://github.com/mdipierro/nlib",
+            "type": "github",
+            "level": "everyone"
         },
         {
-            "title":"Binary Trees by Nick Parlante - CS Library Stanford",
-            "url":"http://cslibrary.stanford.edu/110/BinaryTrees.pdf",
-            "type":"book",
-            "level":"everyone"
+            "title": "Binary Trees by Nick Parlante - CS Library Stanford",
+            "url": "http://cslibrary.stanford.edu/110/BinaryTrees.pdf",
+            "type": "book",
+            "level": "everyone"
         },
         {
-            "title":"Clever Algorithm by Jason Brownlee",
-            "url":"https://raw.githubusercontent.com/clever-algorithms/CleverAlgorithms/master/release/clever_algorithms.pdf",
-            "type":"book",
-            "level":"everyone"
+            "title": "Clever Algorithm by Jason Brownlee",
+            "url": "https://raw.githubusercontent.com/clever-algorithms/CleverAlgorithms/master/release/clever_algorithms.pdf",
+            "type": "book",
+            "level": "everyone"
         },
         {
-            "title":"Data Structures (Into Java) - Paul N. Hilfinger (University of California, Berkeley)",
-            "url":"https://inst.eecs.berkeley.edu//~cs61b/fa14/book2/data-structures.pdf",
-            "type":"book",
-            "level":"everyone"
+            "title": "Data Structures (Into Java) - Paul N. Hilfinger (University of California, Berkeley)",
+            "url": "https://inst.eecs.berkeley.edu//~cs61b/fa14/book2/data-structures.pdf",
+            "type": "book",
+            "level": "everyone"
         },
         {
-            "title":"Think Complexity by Allen B. Downey",
-            "url":"https://greenteapress.com/complexity/",
-            "type":"book",
-            "level":"everyone"
+            "title": "Think Complexity by Allen B. Downey",
+            "url": "https://greenteapress.com/complexity/",
+            "type": "book",
+            "level": "everyone"
         },
         {
-            "title":"The Great Tree-List Recursion Problem by Nick Parlante",
-            "url":"http://cslibrary.stanford.edu/109/TreeListRecursion.pdf",
-            "type":"book",
-            "level":"intermediate"
+            "title": "The Great Tree-List Recursion Problem by Nick Parlante",
+            "url": "http://cslibrary.stanford.edu/109/TreeListRecursion.pdf",
+            "type": "book",
+            "level": "intermediate"
         },
         {
-            "title":"Data Structures and Algorithms: Annotated Reference with Examples",
-            "url":"https://web.archive.org/web/20180727114316/http://lib.mdp.ac.id/ebook/Karya%20Umum/Dsa.pdf",
-            "type":"book",
-            "level":"everyone"
+            "title": "Data Structures and Algorithms: Annotated Reference with Examples",
+            "url": "https://web.archive.org/web/20180727114316/http://lib.mdp.ac.id/ebook/Karya%20Umum/Dsa.pdf",
+            "type": "book",
+            "level": "everyone"
         },
         {
-            "title":"The Design of Approximation Algorithms",
-            "url":"https://www.designofapproxalgs.com/book.pdf",
-            "type":"book",
-            "level":"everyone"
+            "title": "The Design of Approximation Algorithms",
+            "url": "https://www.designofapproxalgs.com/book.pdf",
+            "type": "book",
+            "level": "everyone"
         },
         {
-            "title":"The Art of Computer Programming by Donald E. Knuth.",
-            "url":"https://web.archive.org/web/20190407180500/http://www.cs.utsa.edu/~wagner/knuth/",
-            "type":"book",
-            "level":"everyone"
+            "title": "The Art of Computer Programming by Donald E. Knuth.",
+            "url": "https://web.archive.org/web/20190407180500/http://www.cs.utsa.edu/~wagner/knuth/",
+            "type": "book",
+            "level": "everyone"
         },
         {
-            "title":"The Algorithm Design Manual",
-            "url":"https://www8.cs.umu.se/kurser/TDBAfl/VT06/algorithms/BOOK/BOOK/BOOK.HTM",
-            "type":"book",
-            "level":"everyone"
+            "title": "The Algorithm Design Manual",
+            "url": "https://www8.cs.umu.se/kurser/TDBAfl/VT06/algorithms/BOOK/BOOK/BOOK.HTM",
+            "type": "book",
+            "level": "everyone"
         },
         {
-            "title":"Text Algorithms",
-            "url":"https://igm.univ-mlv.fr/~mac/REC/text-algorithms.pdf",
-            "type":"book",
-            "level":"everyone"
+            "title": "Text Algorithms",
+            "url": "https://igm.univ-mlv.fr/~mac/REC/text-algorithms.pdf",
+            "type": "book",
+            "level": "everyone"
         },
         {
-            "title":"Planning Algorithms by Steven M. LaValle",
-            "url":"http://lavalle.pl/planning/",
-            "type":"book",
-            "level":"everyone"
+            "title": "Planning Algorithms by Steven M. LaValle",
+            "url": "http://lavalle.pl/planning/",
+            "type": "book",
+            "level": "everyone"
         },
         {
-            "title":"Open Data Structures: An open content textbook",
-            "url":"https://opendatastructures.org/",
-            "type":"website",
-            "level":"everyone"
+            "title": "Open Data Structures: An open content textbook",
+            "url": "https://opendatastructures.org/",
+            "type": "website",
+            "level": "everyone"
         },
         {
-            "title":"Matters Computational: Ideas, Algorithms, Source Code",
-            "url":"http://www.jjj.de/fxt/fxtbook.pdf",
-            "type":"book",
-            "level":"everyone"
+            "title": "Matters Computational: Ideas, Algorithms, Source Code",
+            "url": "http://www.jjj.de/fxt/fxtbook.pdf",
+            "type": "book",
+            "level": "everyone"
         },
         {
-            "title":"The LEDA Platform of Combinatorial and Geometric Computing",
-            "url":"https://people.mpi-inf.mpg.de/~mehlhorn/LEDAbook.html",
-            "type":"book",
-            "level":"everyone"
+            "title": "The LEDA Platform of Combinatorial and Geometric Computing",
+            "url": "https://people.mpi-inf.mpg.de/~mehlhorn/LEDAbook.html",
+            "type": "book",
+            "level": "everyone"
         },
         {
-            "title":"Handbook of Graph Drawing and Visualization",
-            "url":"https://web.archive.org/web/20170801080631/http://cs.brown.edu/~rt/gdhandbook/",
-            "type":"book",
-            "level":"everyone"
+            "title": "Handbook of Graph Drawing and Visualization",
+            "url": "https://web.archive.org/web/20170801080631/http://cs.brown.edu/~rt/gdhandbook/",
+            "type": "book",
+            "level": "everyone"
         }
     ]
 }

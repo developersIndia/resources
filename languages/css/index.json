@@ -1,22 +1,22 @@
 {
-    "resources":[
+    "resources": [
         {
-            "title":"The Ultimate Guide To Learning CSS",
-            "url":"https://zendev.com/ultimate-guide-to-learning-css.html",
-            "type":"article",
-            "level":"beginner"
+            "title": "The Ultimate Guide To Learning CSS",
+            "url": "https://zendev.com/ultimate-guide-to-learning-css.html",
+            "type": "article",
+            "level": "beginner"
         },
         {
-            "title":"MDN's Guide To Learning CSS",
-            "url":"https://developer.mozilla.org/en-US/docs/Learn/CSS",
-            "type":"article",
-            "level":"beginner"
+            "title": "MDN's Guide To Learning CSS",
+            "url": "https://developer.mozilla.org/en-US/docs/Learn/CSS",
+            "type": "article",
+            "level": "beginner"
         },
         {
-            "title":"Introduction to Basic CSS Course by FreeCodeCamp",
-            "url":"https://www.freecodecamp.org/learn/responsive-web-design/basic-css/",
-            "type":"course",
-            "level":"beginner"
+            "title": "Introduction to Basic CSS Course by FreeCodeCamp",
+            "url": "https://www.freecodecamp.org/learn/responsive-web-design/basic-css/",
+            "type": "course",
+            "level": "beginner"
         }
     ]
 }
