@@ -25,19 +25,22 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
 <table>
-  <tr>
-    <td align="center"><a href="https://nuhman.github.io"><img src="https://avatars3.githubusercontent.com/u/15177381?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Muhammed Nuhman</b></sub></a><br /><a href="#content-nuhman" title="Content">🖋</a></td>
-    <td align="center"><a href="https://github.com/sbmthakur"><img src="https://avatars2.githubusercontent.com/u/7949156?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Shubham Thakur</b></sub></a><br /><a href="#content-sbmthakur" title="Content">🖋</a></td>
-    <td align="center"><a href="https://github.com/SharmaAayush"><img src="https://avatars.githubusercontent.com/u/29497880?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Ayush Sharma</b></sub></a><br /><a href="#content-SharmaAayush" title="Content">🖋</a></td>
-    <td align="center"><a href="https://github.com/BlackGoku36"><img src="https://avatars.githubusercontent.com/u/36535717?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Urjasvi Suthar</b></sub></a><br /><a href="#content-BlackGoku36" title="Content">🖋</a></td>
-    <td align="center"><a href="https://jarmos.netlify.app/"><img src="https://avatars.githubusercontent.com/u/31373860?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Somraj Saha</b></sub></a><br /><a href="#content-Jarmos-san" title="Content">🖋</a></td>
-    <td align="center"><a href="https://bhupeshpradhan.vercel.app/"><img src="https://avatars.githubusercontent.com/u/76522149?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Bhupesh Pradhan</b></sub></a><br /><a href="#infra-HanakoK9" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a></td>
-    <td align="center"><a href="https://github.com/V3dantSh4rma"><img src="https://avatars.githubusercontent.com/u/70263758?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Vedant Sharma</b></sub></a><br /><a href="#content-V3dantSh4rma" title="Content">🖋</a></td>
-  </tr>
-  <tr>
-    <td align="center"><a href="https://tailwind-nextjs-portfolio.vercel.app/"><img src="https://avatars.githubusercontent.com/u/18483618?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Manav-SM</b></sub></a><br /><a href="#content-Manav-SM" title="Content">🖋</a></td>
-    <td align="center"><a href="https://github.com/SameerSahu007"><img src="https://avatars.githubusercontent.com/u/29480670?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Sameer Sahu</b></sub></a><br /><a href="#content-SameerSahu007" title="Content">🖋</a></td>
-  </tr>
+  <tbody>
+    <tr>
+      <td align="center"><a href="https://nuhman.github.io"><img src="https://avatars3.githubusercontent.com/u/15177381?v=4?s=100" width="100px;" alt="Muhammed Nuhman"/><br /><sub><b>Muhammed Nuhman</b></sub></a><br /><a href="#content-nuhman" title="Content">🖋</a></td>
+      <td align="center"><a href="https://github.com/sbmthakur"><img src="https://avatars2.githubusercontent.com/u/7949156?v=4?s=100" width="100px;" alt="Shubham Thakur"/><br /><sub><b>Shubham Thakur</b></sub></a><br /><a href="#content-sbmthakur" title="Content">🖋</a></td>
+      <td align="center"><a href="https://github.com/SharmaAayush"><img src="https://avatars.githubusercontent.com/u/29497880?v=4?s=100" width="100px;" alt="Ayush Sharma"/><br /><sub><b>Ayush Sharma</b></sub></a><br /><a href="#content-SharmaAayush" title="Content">🖋</a></td>
+      <td align="center"><a href="https://github.com/BlackGoku36"><img src="https://avatars.githubusercontent.com/u/36535717?v=4?s=100" width="100px;" alt="Urjasvi Suthar"/><br /><sub><b>Urjasvi Suthar</b></sub></a><br /><a href="#content-BlackGoku36" title="Content">🖋</a></td>
+      <td align="center"><a href="https://jarmos.netlify.app/"><img src="https://avatars.githubusercontent.com/u/31373860?v=4?s=100" width="100px;" alt="Somraj Saha"/><br /><sub><b>Somraj Saha</b></sub></a><br /><a href="#content-Jarmos-san" title="Content">🖋</a></td>
+      <td align="center"><a href="https://bhupeshpradhan.vercel.app/"><img src="https://avatars.githubusercontent.com/u/76522149?v=4?s=100" width="100px;" alt="Bhupesh Pradhan"/><br /><sub><b>Bhupesh Pradhan</b></sub></a><br /><a href="#infra-HanakoK9" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a></td>
+      <td align="center"><a href="https://github.com/V3dantSh4rma"><img src="https://avatars.githubusercontent.com/u/70263758?v=4?s=100" width="100px;" alt="Vedant Sharma"/><br /><sub><b>Vedant Sharma</b></sub></a><br /><a href="#content-V3dantSh4rma" title="Content">🖋</a></td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://tailwind-nextjs-portfolio.vercel.app/"><img src="https://avatars.githubusercontent.com/u/18483618?v=4?s=100" width="100px;" alt="Manav-SM"/><br /><sub><b>Manav-SM</b></sub></a><br /><a href="#content-Manav-SM" title="Content">🖋</a></td>
+      <td align="center"><a href="https://github.com/SameerSahu007"><img src="https://avatars.githubusercontent.com/u/29480670?v=4?s=100" width="100px;" alt="Sameer Sahu"/><br /><sub><b>Sameer Sahu</b></sub></a><br /><a href="#content-SameerSahu007" title="Content">🖋</a></td>
+      <td align="center"><a href="https://dev.to/delta456"><img src="https://avatars.githubusercontent.com/u/28479139?v=4?s=100" width="100px;" alt="Swastik Baranwal"/><br /><sub><b>Swastik Baranwal</b></sub></a><br /><a href="#content-Delta456" title="Content">🖋</a></td>
+    </tr>
+  </tbody>
 </table>
 
 <!-- markdownlint-restore -->

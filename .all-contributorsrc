@@ -85,6 +85,15 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "Delta456",
+      "name": "Swastik Baranwal",
+      "avatar_url": "https://avatars.githubusercontent.com/u/28479139?v=4",
+      "profile": "https://dev.to/delta456",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7,
@@ -92,5 +101,6 @@
   "projectOwner": "developersIndia",
   "repoType": "github",
   "repoHost": "https://github.com",
-  "skipCi": true
+  "skipCi": true,
+  "commitConvention": "angular"
 }
