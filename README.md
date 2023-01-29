@@ -2,10 +2,7 @@
 
 > The Developers India Host for some cool & useful resources.
 
-![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
-[![open-source-love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges)
-[![GitHub license](https://img.shields.io/github/license/developersIndia/resources)](https://github.com/developersIndia/resources/blob/master/LICENSE)
-[![Discord](https://img.shields.io/discord/669880381649977354?color=blue)](https://discordapp.com/invite/MKXMSNC)
+[![Discord](https://img.shields.io/discord/669880381649977354?color=%237289da&label=Discord&logo=Discord)](https://discordapp.com/invite/MKXMSNC)
 [![Subreddit subscribers](https://img.shields.io/reddit/subreddit-subscribers/developersIndia?style=social)](https://www.reddit.com/r/developersIndia/)
 
 
