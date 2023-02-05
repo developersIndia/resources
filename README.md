@@ -5,6 +5,25 @@
 [![Discord](https://img.shields.io/discord/669880381649977354?color=%237289da&label=Discord&logo=Discord)](https://discordapp.com/invite/MKXMSNC)
 [![Subreddit subscribers](https://img.shields.io/reddit/subreddit-subscribers/developersIndia?style=social)](https://www.reddit.com/r/developersIndia/)
 
+# 👀 How does this project work?
+
+The resources repository acts as a "static datastore" for our [**saadhan project**](https://saadhan.developersindia.in/). Here is a brief overview:
+1. You contribute resources here, by updating the correct `index.json`.
+2. Your PR gets reviewed & merged.
+3. The new/updated resource is now visible on the saadhan website.
+
+## 🤨 What's a "static datastore"
+- Its a collection of JSON files, like literally.
+- GitHub returns JSON files as JSON, if they are named as `index.json` and are placed in a directory. This gives us the leverage to use the [`resources` github pages site](https://developersindia.github.io/resources/) as an API for the saadhan website. <br>
+  Here is a sample endpoint for DSA resources demonstrating the static API
+  ```
+  https://developersindia.github.io/resources/dsa/index.json
+  ```
+
+## 🙌🏽 Organised resources with [JSON Schema](https://json-schema.org/)
+- We don't like big readme files with a collection of links (see for yourself how [horrible this looks 🤮](https://github.com/developersIndia/resources/blob/099258bb6daffd67475add7e8ef137b430c50c33/README.md)).
+- To make the experience better we utilise JSON Schemas which provides a validation layer on top your JSON data.
+- This is how the [`resources` schema looks like](https://github.com/developersIndia/resources/blob/master/resource.schema)
 
 # 📜 License
 
