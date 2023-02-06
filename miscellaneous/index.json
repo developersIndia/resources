@@ -29,6 +29,12 @@
             "url": "https://www.udacity.com/course/computer-networking--ud436",
             "type": "course",
             "level": "everyone"
+        },
+        {
+            "title": "nand2tetris",
+            "url": "https://www.nand2tetris.org/course",
+            "type": "website",
+            "level": "beginner"
         }
     ]
 }
