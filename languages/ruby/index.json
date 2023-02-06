@@ -1,0 +1,22 @@
+{
+    "resources": [
+        {
+            "title": "RubyMonk - Interactive Ruby Tutorials",
+            "url": "https://rubymonk.com/",
+            "type": "website",
+            "level": "intermediate",
+            "reviews": [
+                "My go to reference for Ruby concepts and some niche patterns for meta-programming."
+            ]
+        },
+        {
+            "title": "Unraveling Classes, Instances and Metaclasses in Ruby",
+            "url": "https://blog.appsignal.com/2019/02/05/ruby-magic-classes-instances-and-metaclasses.html",
+            "type": "article",
+            "level": "advanced",
+            "reviews": [
+                "A good blog about Ruby meta-programming by AppSignal, which usually has similar high-quality technical blogs."
+            ]
+        }
+    ]
+}
