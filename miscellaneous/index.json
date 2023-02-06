@@ -29,6 +29,15 @@
             "url": "https://www.udacity.com/course/computer-networking--ud436",
             "type": "course",
             "level": "everyone"
+        },
+        {
+            "title": "nand2tetris",
+            "url": "https://www.nand2tetris.org/course",
+            "type": "website",
+            "level": "beginner",
+            "reviews":[
+                "nand2tetris teaches us how to build a computer starting with logic gates, going all the way upto the operating system."
+            ]
         }
     ]
 }
