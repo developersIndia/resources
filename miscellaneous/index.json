@@ -34,7 +34,10 @@
             "title": "nand2tetris",
             "url": "https://www.nand2tetris.org/course",
             "type": "website",
-            "level": "beginner"
+            "level": "beginner",
+            "reviews":[
+                "nand2tetris teaches us how to build a computer starting with logic gates, going all the way upto the operating system."
+            ]
         }
     ]
 }
