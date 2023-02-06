@@ -23,6 +23,15 @@
             "url": "https://www.amazon.in/Understanding-Using-Pointers-Richard-Reese/dp/1449344186/",
             "type": "book",
             "level": "intermediate"
+        },
+        {
+            "title": "GCC and Make - Compiling, Linking and Building C/C++ Applications",
+            "url": "https://www3.ntu.edu.sg/home/ehchua/programming/cpp/gcc_make.html",
+            "type": "article",
+            "level": "intermediate",
+            "reviews": [
+                "This is a good article for reference. Goes through the basics about the compilation process along with runnable commands. Also introduced me to Makefiles."
+            ]
         }
     ]
 }
