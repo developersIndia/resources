@@ -1,6 +1,12 @@
 {
     "resources": [
         {
+            "title": "Teach Yourself Computer Science",
+            "url": "https://teachyourselfcs.com/",
+            "type": "website",
+            "level": "everyone"
+        },
+        {
             "title": "Stanford CS Education Library",
             "url": "http://cslibrary.stanford.edu/",
             "type": "website",
