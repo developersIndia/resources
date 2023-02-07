@@ -1,6 +1,12 @@
 {
     "resources": [
         {
+            "title": "The Missing Semester of Your CS Education",
+            "url": "https://missing.csail.mit.edu/",
+            "type": "course",
+            "level": "everyone"
+        },
+        {
             "title": "How HTTPS Works",
             "url": "https://howhttps.works/",
             "type": "website",
