@@ -1,6 +1,6 @@
-# Developers India Resources
+# `developersIndia` resources
 
-> The Developers India Host for some cool & useful resources.
+> The developersIndia Host for some cool & useful resources to learn new things in tech.
 
 [![Discord](https://img.shields.io/discord/669880381649977354?color=%237289da&label=Discord&logo=Discord)](https://discordapp.com/invite/MKXMSNC)
 [![Subreddit subscribers](https://img.shields.io/reddit/subreddit-subscribers/developersIndia?style=social)](https://www.reddit.com/r/developersIndia/)
