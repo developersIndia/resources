@@ -1,10 +1,23 @@
 {
     "resources": [
+    
+        {
+            "title": "The Missing Semester of Your CS Education",
+            "url": "https://missing.csail.mit.edu/",
+            "type": "course",
+            "level": "everyone"
+            "reviews": [
+                "This course teaches you how to master the command-line, use a powerful text editor, use fancy features of version control systems, and much more!"
+            ]
+        },
         {
             "title": "Teach Yourself Computer Science",
             "url": "https://teachyourselfcs.com/",
             "type": "website",
-            "level": "everyone"
+            "level": "everyone",
+            "reviews": [
+                "Contains the courses and books for the core CS subjects with focusing on the importance of each."
+            ]
         },
         {
             "title": "Stanford CS Education Library",
