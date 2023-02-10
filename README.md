@@ -57,6 +57,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center" valign="top" width="14.28%"><a href="https://dev.to/delta456"><img src="https://avatars.githubusercontent.com/u/28479139?v=4?s=100" width="100px;" alt="Swastik Baranwal"/><br /><sub><b>Swastik Baranwal</b></sub></a><br /><a href="#content-Delta456" title="Content">🖋</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/yaswanth-vakkala"><img src="https://avatars.githubusercontent.com/u/100300292?v=4?s=100" width="100px;" alt="yaswanth v"/><br /><sub><b>yaswanth v</b></sub></a><br /><a href="#content-yaswanth-vakkala" title="Content">🖋</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://animesh-ghosh.github.io/"><img src="https://avatars.githubusercontent.com/u/34956994?v=4?s=100" width="100px;" alt="MaDDogx"/><br /><sub><b>MaDDogx</b></sub></a><br /><a href="#content-Animesh-Ghosh" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://akshat.shastraos.co/"><img src="https://avatars.githubusercontent.com/u/69577224?v=4?s=100" width="100px;" alt="Akshat Sharma"/><br /><sub><b>Akshat Sharma</b></sub></a><br /><a href="#content-akshatcoder-hash" title="Content">🖋</a></td>
     </tr>
   </tbody>
 </table>
