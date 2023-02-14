@@ -1,0 +1,28 @@
+{
+  "resources": [
+    {
+      "title": "Golang roadmap",
+      "url": "https://roadmap.sh/golang",
+      "type": "cheatsheet",
+      "level": "everyone"
+    },
+    {
+      "title": "Golang playlist by Hitesh Choudhary",
+      "url": "https://www.youtube.com/playlist?list=PLRAV69dS1uWQGDQoBYMZWKjzuhCaOnBpa",
+      "type": "video",
+      "level": "intermediate",
+      "review": [
+        "This is a great playlist for getting started with Golang."
+      ]
+    },
+    {
+      "title": "Website for Golang practice",
+      "url": "https://gophercises.com/",
+      "type": "website",
+      "level": "everyone",
+      "review": [
+        "Gophercises has a lot of exercises to practice Golang as well as videos to master a lot of intricate concepts in Go."
+      ]
+    }
+  ]
+}
