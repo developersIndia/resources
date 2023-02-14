@@ -19,4 +19,5 @@ jobs:
           if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
       - name: Validate Resource Schemas
         run: |
+          python3 --version
           python3 validator.py
