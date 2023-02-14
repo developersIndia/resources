@@ -1,0 +1,97 @@
+{
+  "resources": [
+    {
+      "title": "DevOps Roadmap",
+      "url": "https://roadmap.sh/devops",
+      "type": "cheatsheet",
+      "level": "everyone"
+    },
+    {
+      "title": "90 days of DevOps",
+      "url": "https://github.com/MichaelCade/90DaysOfDevOps",
+      "type": "github",
+      "level": "everyone",
+      "reviews": [
+        "This is a pretty good repository to get an understanding of tools used in DevOps."
+      ]
+    },
+    {
+      "title": "Linux Journey",
+      "url": "https://linuxjourney.com/",
+      "type": "website",
+      "level": "everyone",
+      "review": [
+        "This is a very good website to gain hands-on experience in Linux and bash."
+      ]
+    },
+    {
+      "title": "Docker",
+      "url": "https://www.youtube.com/watch?v=3c-iBn73dDE",
+      "type": "video",
+      "level": "intermediate"
+    },
+    {
+      "title": "A basic introduction to Kubernetes",
+      "url": "https://www.youtube.com/watch?v=X48VuDVv0do",
+      "type": "video",
+      "level": "intermediate",
+      "review": [
+        "This video is a bit outdated with the current trends in Kubernetes but good enough to gain a basic understading of k8s."
+      ]
+    },
+    {
+      "title": "Kubernetes documentation",
+      "url": "https://kubernetes.io/docs/home/",
+      "type": "website",
+      "level": "intermediate"
+    },
+    {
+      "title": "Certified Kubernetes Administrator (CKA) course by Mumshad Mannambeth",
+      "url": "https://kodekloud.com/courses/certified-kubernetes-administrator-cka/",
+      "type": "course",
+      "level": "intermediate"
+    },
+    {
+      "title": "Kubernetes labs on killer.sh",
+      "url": "https://killer.sh/",
+      "type": "website",
+      "level": "advanced",
+      "review": [
+        "If you plan on taking a k8s certification, you're going to need to practice labs in here."
+      ]
+    },
+    {
+      "title": "AWS certification courses by Stephane Maarek",
+      "url": "https://www.udemy.com/user/stephane-maarek/",
+      "type": "course",
+      "level": "intermediate",
+      "review": [
+        "Go for this course if you have working experience with AWS and just want to clear the exam."
+      ]
+    },
+    {
+      "title": "AWS certification courses by Adrian Cantrill",
+      "url": "https://cantrill.io/",
+      "type": "course",
+      "level": "beginner",
+      "review": [
+        "Cantrill's courses are very in-depth and hands-on based and go for these if you want to learn AWS from scratch."
+      ]
+    },
+    {
+      "title": "Jenkins YouTube playlist in Hindi",
+      "url": "https://www.youtube.com/playlist?list=PL6XT0grm_Tfi21F8O0TvHmb78P2uEmhDq",
+      "type": "video",
+      "level": "intermediate",
+      "review": [
+        "A very good playlist to get started with Jenkins."
+      ]
+    },
+    {
+      "title": "Jenkins video by DevOps Journey",
+      "url": "https://www.youtube.com/watch?v=6YZvp2GwT0A",
+      "type": "video",
+        "level": "intermediate"
+    }
+  ]
+}
