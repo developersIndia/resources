@@ -25,13 +25,13 @@
       ]
     },
     {
-      "title": "Docker",
+      "title": "Docker Tutorial for Beginners [FULL COURSE in 3 Hours] - TechWorld With Nana",
       "url": "https://www.youtube.com/watch?v=3c-iBn73dDE",
       "type": "video",
       "level": "intermediate"
     },
     {
-      "title": "A basic introduction to Kubernetes",
+      "title": "Kubernetes Tutorial for Beginners [FULL COURSE in 4 Hours] - TechWorld With Nana",
       "url": "https://www.youtube.com/watch?v=X48VuDVv0do",
       "type": "video",
       "level": "intermediate",
@@ -91,7 +91,7 @@
       "title": "Jenkins video by DevOps Journey",
       "url": "https://www.youtube.com/watch?v=6YZvp2GwT0A",
       "type": "video",
-        "level": "intermediate"
+      "level": "intermediate"
     }
   ]
 }
