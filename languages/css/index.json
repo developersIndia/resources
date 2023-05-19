@@ -17,6 +17,12 @@
             "url": "https://www.freecodecamp.org/learn/responsive-web-design/basic-css/",
             "type": "course",
             "level": "beginner"
+        },
+        {
+            "title": "Videos on CSS Grid by Jen Simmons on Layout Land",
+            "url": "https://www.youtube.com/playlist?list=PLbSquHt1VCf1x_-1ytlVMT0AMwADlWtc1",
+            "type": "video",
+            "level": "beginner"
         }
     ]
 }
