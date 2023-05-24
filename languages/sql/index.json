@@ -5,6 +5,37 @@
             "url": "https://sqlbolt.com/",
             "type": "website",
             "level": "everyone"
+        },
+        {
+            "title": "sql-practice",
+            "url": "https://www.sql-practice.com/",
+            "type": "website",
+            "level": "everyone"
+        },
+        {
+            "title": "SQL in one page",
+            "url": "https://www.cheat-sheets.org/sites/sql.su/",
+            "type": "website",
+            "level": "everyone"
+        },
+        {
+            "title": "Select Star SQL",
+            "url": "https://selectstarsql.com/",
+            "type": "website",
+            "level": "beginner"
+        },
+        {
+            "title": "SQL Murder Mystery",
+            "url": "https://mystery.knightlab.com/",
+            "type": "website",
+            "level": "intermediate"
+        },
+        {
+            "title": "DB normalization by Decomplexify",
+            "url": "https://www.youtube.com/watch?v=GFQaEYEc8_8",
+            "type": "video",
+            "level": "everyone"
         }
+        
     ]
 }
