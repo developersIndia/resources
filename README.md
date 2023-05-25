@@ -60,6 +60,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center" valign="top" width="14.28%"><a href="https://akshat.shastraos.co/"><img src="https://avatars.githubusercontent.com/u/69577224?v=4?s=100" width="100px;" alt="Akshat Sharma"/><br /><sub><b>Akshat Sharma</b></sub></a><br /><a href="#content-akshatcoder-hash" title="Content">🖋</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://spookyintheam.codes"><img src="https://avatars.githubusercontent.com/u/68803793?v=4?s=100" width="100px;" alt="spooky"/><br /><sub><b>spooky</b></sub></a><br /><a href="#content-ghostx31" title="Content">🖋</a></td>
     </tr>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/HarshitJoshi9152"><img src="https://avatars.githubusercontent.com/u/37842304?v=4?s=100" width="100px;" alt="Harshit"/><br /><sub><b>Harshit</b></sub></a><br /><a href="#content-HarshitJoshi9152" title="Content">🖋</a></td>
+    </tr>
   </tbody>
 </table>
 
