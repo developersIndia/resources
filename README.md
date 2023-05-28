@@ -62,6 +62,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     </tr>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/HarshitJoshi9152"><img src="https://avatars.githubusercontent.com/u/37842304?v=4?s=100" width="100px;" alt="Harshit"/><br /><sub><b>Harshit</b></sub></a><br /><a href="#content-HarshitJoshi9152" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://gsolanki.vercel.app"><img src="https://avatars.githubusercontent.com/u/34185908?v=4?s=100" width="100px;" alt="Solanki Gaurav"/><br /><sub><b>Solanki Gaurav</b></sub></a><br /><a href="#content-gau2107" title="Content">🖋</a></td>
     </tr>
   </tbody>
 </table>
