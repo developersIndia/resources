@@ -95,6 +95,12 @@
             "url": "https://webapplog.com/you-dont-know-node/",
             "type": "article",
             "level": "everyone"
+        },
+        {
+            "title": "ES6 Syntax and Feature Overview",
+            "url": "https://www.taniarascia.com/es6-syntax-and-feature-overview/",
+            "type": "article",
+            "level": "everyone"
         }
     ]
 }
