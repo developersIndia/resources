@@ -36,6 +36,24 @@
             "url": "https://classic.csunplugged.org/books/",
             "type": "book",
             "level": "beginner"
+        },
+        {
+            "title": "Chris Bourke's Introduction to Computer Science",
+            "url": "https://cse.unl.edu/~cbourke/ComputerScienceOne.pdf",
+            "type": "book",
+            "level": "beginner"
+        },
+        {
+            "title": "Chris Bourke's Introduction to Computer Science Volume II (OOP, Databases, and Algorithms)",
+            "url": "https://cse.unl.edu/~cbourke/ComputerScienceTwo.pdf",
+            "type": "book",
+            "level": "intermediate"
+        },
+        {
+            "title": "Chris Bourke's Introduction to Computer Science Volume III (Datastructures, Algorithms, Computational Programming)",
+            "url": "https://cse.unl.edu/~cbourke/ComputerScienceThree.pdf",
+            "type": "book",
+            "level": "advanced"
         }
     ]
 }
