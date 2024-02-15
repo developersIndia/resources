@@ -29,6 +29,13 @@
             "url": "https://www.coursera.org/specializations/deep-learning",
             "type": "course",
             "level": "intermediate"
+        },
+        {
+            "title": "Neural Networks- Zero to Hero",
+            "url": "https://karpathy.ai/zero-to-hero.html",
+            "type": "course",
+            "level": "everyone"
         }
+        
     ]
 }
