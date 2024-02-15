@@ -146,6 +146,42 @@
             "url": "https://web.archive.org/web/20170801080631/http://cs.brown.edu/~rt/gdhandbook/",
             "type": "book",
             "level": "everyone"
+        },
+        {
+            "title": "Introduction to Algorithms, Second Edition",
+            "url": "https://athena.nitc.ac.in/summerschool/Files/clrs.pdf",
+            "type": "book",
+            "level": "Intermediate"
+        },
+        {
+            "title": "Problems On Algorithms (Practice Book for Algorithms)",
+            "url": "https://home.cse.ust.hk/~dekai/271/notes/L01a/poa.pdf",
+            "type": "book",
+            "level": "Intermediate"
+        },
+        {
+            "title": "Algorithmics- The Spirit of Computing.",
+            "url": "http://cslabcms.nju.edu.cn/problem_solving/images/e/e1/Algorithmics-the_Spirit_of_Computing%2C_3rd_by_David_Harel.pdf",
+            "type": "book",
+            "level": "Intermediate"
+        },
+        {
+            "title": "Competitive Programmer's Handbook",
+            "url": "https://cses.fi/book/book.pdf",
+            "type": "book",
+            "level": "everyone"
+        },
+        {
+            "title": "The Hitchhiker’s Guide to the Programming Contests",
+            "url": "https://i.cs.hku.hk/~provinci/files/b1-hitchiker.pdf",
+            "type": "book",
+            "level": "Advanced"
+        },
+        {
+            "title": "Competitive Programming I",
+            "url": "https://www.comp.nus.edu.sg/~stevenha/myteaching/competitive_programming/cp1.pdf",
+            "type": "book",
+            "level": "Intermediate"
         }
     ]
 }
