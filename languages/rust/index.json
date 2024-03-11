@@ -27,7 +27,7 @@
         {
             "title": "Rust Learning",
             "url": "https://github.com/ctjhoa/rust-learning",
-            "type": "website",
+            "type": "github",
             "level": "beginner"
         },
         {
@@ -39,7 +39,7 @@
         {
             "title": "stdx",
             "url": "https://github.com/brson/stdx",
-            "type": "article",
+            "type": "github",
             "level": "beginner"
         },
         {
@@ -99,7 +99,7 @@
         {
             "title": "Tokio Tutorial",
             "url": "https://tokio.rs/tokio/tutorial/",
-            "type": "tutorial",
+            "type": "website",
             "level": "intermediate"
         },
         {
