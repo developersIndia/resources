@@ -39,7 +39,7 @@
         {
             "title": "stdx",
             "url": "https://github.com/brson/stdx",
-            "type": "website",
+            "type": "article",
             "level": "beginner"
         },
         {
@@ -51,7 +51,7 @@
         {
             "title": "Idiomatic-rust",
             "url": "https://corrode.dev/idiomatic-rust/",
-            "type": "website",
+            "type": "article",
             "level": "mixed"
         },
         {
@@ -75,7 +75,7 @@
         {
             "title": "Advent Of Code",
             "url": "https://fasterthanli.me/series/advent-of-code-2022",
-            "type": "website",
+            "type": "article",
             "level": "intermediate"
         },
         {
@@ -87,7 +87,7 @@
         {
             "title": "Writing an OS in Rust",
             "url": "https://os.phil-opp.com/",
-            "type": "website",
+            "type": "article",
             "level": "expert"
         },
         {
