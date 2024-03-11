@@ -45,7 +45,7 @@
         {
             "title": "LetsGetRusty",
             "url": "https://youtube.com/playlist?list=PLai5B987bZ9CoVRQEIN9foz4QCJ0H2Y8&si=-YH7bYkgwtmKtU0",
-            "type": "tutorial",
+            "type": "video",
             "level": "beginner"
         },
         {
@@ -63,13 +63,13 @@
         {
             "title": "Crust of Rust",
             "url": "https://www.youtube.com/watch?v=rAl9HwD858&list=PLqbS7AVVErFiWDOAVrPt7aYmnuuOLYvOa",
-            "type": "tutorial",
+            "type": "video",
             "level": "intermediate"
         },
         {
             "title": "Code Crafters",
             "url": "https://codecrafters.io/",
-            "type": "tutorial",
+            "type": "video",
             "level": "intermediate"
         },
         {
