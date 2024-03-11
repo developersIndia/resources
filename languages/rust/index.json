@@ -88,7 +88,7 @@
             "title": "Writing an OS in Rust",
             "url": "https://os.phil-opp.com/",
             "type": "article",
-            "level": "expert"
+            "level": "advanced"
         },
         {
             "title": "Rustacean Station",
