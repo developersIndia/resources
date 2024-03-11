@@ -1,1 +1,112 @@
-
+{
+    "resources": [
+        {
+            "title": "The Rust Book",
+            "url": "https://doc.rust-lang.org/stable/book/",
+            "type": "e-Book",
+            "level": "Beginner"
+        },
+        {
+            "title": "Exercism",
+            "url": "https://exercism.io/tracks/rust",
+            "type": "online learning platform",
+            "level": "Beginner"
+        },
+        {
+            "title": "Rust by Example",
+            "url": "https://doc.rust-lang.org/stable/rust-byexample/",
+            "type": "e-Book",
+            "level": "Beginner"
+        },
+        {
+            "title": "Rustlings",
+            "url": "https://rustlings.cool/",
+            "type": "Interactive Learning",
+            "level": "Beginner"
+        },
+        {
+            "title": "Rust Learning",
+            "url": "https://github.com/ctjhoa/rust-learning",
+            "type": "Article/Blogs Index",
+            "level": "Beginner"
+        },
+        {
+            "title": "Rust Cookbook",
+            "url": "https://rust-lang-nursery.github.io/rust-cookbook/",
+            "type": "e-Book",
+            "level": "Beginner"
+        },
+        {
+            "title": "stdx",
+            "url": "https://github.com/brson/stdx",
+            "type": "Article",
+            "level": "Beginner"
+        },
+        {
+            "title": "LetsGetRusty",
+            "url": "https://youtube.com/playlist?list=PLai5B987bZ9CoVRQEIN9foz4QCJ0H2Y8&si=-YH7bYkgwtmKtU0",
+            "type": "YouTube Video",
+            "level": "Beginner"
+        },
+        {
+            "title": "Idiomatic-rust",
+            "url": "https://corrode.dev/idiomatic-rust/",
+            "type": "Article Index",
+            "level": "Mixed"
+        },
+        {
+            "title": "Rust for Rustaceans",
+            "url": "https://rust-for-rustaceans.com/",
+            "type": "Book",
+            "level": "Intermediate"
+        },
+        {
+            "title": "Crust of Rust",
+            "url": "https://www.youtube.com/watch?v=rAl9HwD858&list=PLqbS7AVVErFiWDOAVrPt7aYmnuuOLYvOa",
+            "type": "YouTube Video",
+            "level": "Intermediate"
+        },
+        {
+            "title": "Code Crafters",
+            "url": "https://codecrafters.io/",
+            "type": "Self learning",
+            "level": "Intermediate"
+        },
+        {
+            "title": "Advent Of Code",
+            "url": "https://fasterthanli.me/series/advent-of-code-2022",
+            "type": "Article Series",
+            "level": "Intermediate"
+        },
+        {
+            "title": "Atomics and Locks",
+            "url": "https://marabos.nl/atomics/",
+            "type": "Book",
+            "level": "Intermediate"
+        },
+        {
+            "title": "Writing an OS in Rust",
+            "url": "https://os.phil-opp.com/",
+            "type": "Article Series",
+            "level": "Expert"
+        },
+        {
+            "title": "Rustacean Station",
+            "url": "https://rustacean-station.org/",
+            "type": "Podcast",
+            "level": "Mixed"
+        },
+        {
+            "title": "Tokio Tutorial",
+            "url": "https://tokio.rs/tokio/tutorial/",
+            "type": "Tutorial",
+            "level": "Intermediate"
+        },
+        {
+            "title": "Rust Design Patterns",
+            "url": "https://docs.rs/rust_design_patterns/0.10.0/rust_design_patterns/",
+            "type": "Documentation",
+            "level": "Advanced"
+        }
+    ]
+}
