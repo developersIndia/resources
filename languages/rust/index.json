@@ -52,7 +52,7 @@
             "title": "Idiomatic-rust",
             "url": "https://corrode.dev/idiomatic-rust/",
             "type": "article",
-            "level": "mixed"
+            "level": "everyone"
         },
         {
             "title": "Rust for Rustaceans",
@@ -94,7 +94,7 @@
             "title": "Rustacean Station",
             "url": "https://rustacean-station.org/",
             "type": "podcast",
-            "level": "mixed"
+            "level": "everyone"
         },
         {
             "title": "Tokio Tutorial",
