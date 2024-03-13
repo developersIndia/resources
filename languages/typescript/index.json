@@ -1,0 +1,82 @@
+{
+    "resources": [
+        {
+            "title": "TypeScript Documentation",
+            "url": "https://www.typescriptlang.org/docs/",
+            "type": "website",
+            "level": "everyone"
+        },
+        {
+            "title": "TypeScript Handbook",
+            "url": "https://www.typescriptlang.org/docs/handbook/",
+            "type": "website",
+            "level": "everyone"
+        },
+        {
+            "title": "TypeScript Deep Dive",
+            "url": "https://basarat.gitbook.io/typescript/",
+            "type": "book",
+            "level": "intermediate"
+        },
+        {
+            "title": "Academind's TypeScript - The Complete Guide",
+            "url": "https://www.udemy.com/course/typescript-the-complete-developers-guide/",
+            "type": "course",
+            "level": "everyone",
+            "review": [
+                "Comprehensive course covering TypeScript for developers of all levels."
+            ]
+        },
+        {
+            "title": "TypeScript Playlist by The Net Ninja",
+            "url": "https://www.youtube.com/playlist?list=PL4cUxeGkcC9gUgr39Q_yD6v-bSyMwKPUI",
+            "type": "video",
+            "level": "beginner",
+            "review": [
+                "Great video series for beginners diving into TypeScript."
+            ]
+        },
+        {
+            "title": "Effective TypeScript",
+            "url": "https://effectivetypescript.com/",
+            "type": "book",
+            "level": "advanced"
+        },
+        {
+            "title": "TypeScript Design Patterns",
+            "url": "https://refactoring.guru/design-patterns/typescript",
+            "type": "article",
+            "level": "advanced"
+        },
+        {
+            "title": "TypeScript Playground",
+            "url": "https://www.typescriptlang.org/play",
+            "type": "website",
+            "level": "everyone"
+        },
+        {
+            "title": "TypeScript Weekly Newsletter",
+            "url": "https://www.typescriptweekly.com/",
+            "type": "newsletter",
+            "level": "everyone"
+        },
+        {
+            "title": "Advanced TypeScript GitHub Repository",
+            "url": "https://github.com/piotrwitek/react-redux-typescript-guide",
+            "type": "github",
+            "level": "advanced"
+        },
+        {
+            "title": "TypeScript-React-Starter GitHub Repository",
+            "url": "https://github.com/Microsoft/TypeScript-React-Starter",
+            "type": "github",
+            "level": "everyone"
+        },
+        {
+            "title": "TypeScript Testing Guide",
+            "url": "https://www.tsmean.com/articles/testing/typescript-testing-in-depth/#typescript-unit-testing",
+            "type": "article",
+            "level": "intermediate"
+        }
+    ]
+}
