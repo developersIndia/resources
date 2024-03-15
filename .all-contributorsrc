@@ -157,7 +157,16 @@
       "contributions": [
         "content"
       ]
-    }
+    },
+    {
+      "login": "lineararray",
+      "name": "LinearArray",
+      "avatar_url": "https://github.com/LinearArray",
+      "profile": "https://github.com/LinearArray",
+      "contributions": [
+        "content"
+      ]
+    },
   ],
   "contributorsPerLine": 7,
   "projectName": "resources",
