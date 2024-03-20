@@ -113,6 +113,12 @@
             "url": "https://arne-mertz.de/",
             "type": "article",
             "level": "advanced"
+        },
+        {
+            "title":"The C++ Iceberg",
+            "url":"https://fouronnes.github.io/cppiceberg/",
+            "level":"advanced",
+            "type":"website"
         }
     ]
 }

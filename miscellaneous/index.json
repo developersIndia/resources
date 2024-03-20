@@ -35,9 +35,27 @@
             "url": "https://www.nand2tetris.org/course",
             "type": "website",
             "level": "beginner",
-            "reviews":[
+            "reviews": [
                 "nand2tetris teaches us how to build a computer starting with logic gates, going all the way upto the operating system."
             ]
+        },
+        {
+            "title": "The Illustrated TLS 1.3 Connection - Every byte explained and reproduced",
+            "url": "https://tls13.xargs.org/",
+            "type": "website",
+            "level": "everyone"
+        },
+        {
+            "title": "Hyperpolyglot - Commonly used features of programming languages in a side-by-side format",
+            "url": "https://hyperpolyglot.org/",
+            "level": "everyone",
+            "type": "website"
+        },
+        {
+            "title": "Putting the “You” in CPU",
+            "url": "https://cpu.land/",
+            "level": "everyone",
+            "type": "website"
         }
     ]
 }

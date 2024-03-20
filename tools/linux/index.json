@@ -1,0 +1,22 @@
+{
+    "resources": [
+        {
+            "title": "TLDP.org",
+            "url": "https://tldp.org/",
+            "type": "website",
+            "level": "everyone"
+        },
+        {
+            "title": "Linux Device Drivers - 3rd Edition, by Jonathan Corbet, Alessandro Rubini, and Greg Kroah-Hartman",
+            "url": "https://lwn.net/Kernel/LDD3/",
+            "type": "book",
+            "level": "advanced"
+        },
+        {
+            "title": "Troubleshoot and make a sad server happy - Leetcode for Linux",
+            "url": "https://sadservers.com/",
+            "level": "everyone",
+            "type": "website"
+        }
+    ]
+}
