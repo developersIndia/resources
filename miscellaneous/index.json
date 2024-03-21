@@ -58,10 +58,10 @@
             "type": "website"
         },
         {
-            "title":"GPS - Understanding positioning method used by GPS",
-            "url":"https://ciechanow.ski/gps/",
-            "type":"article",
-            "level":"everyone"
+            "title": "GPS - Understanding positioning method used by GPS",
+            "url": "https://ciechanow.ski/gps/",
+            "type": "article",
+            "level": "everyone"
         }
     ]
 }

@@ -1,10 +1,10 @@
 {
-    "resources":[
+    "resources": [
         {
-            "title":"Java Brains",
-            "url":"https://www.youtube.com/@Java.Brains/featured",
-            "type":"video",
-            "level":"everyone"
+            "title": "Java Brains",
+            "url": "https://www.youtube.com/@Java.Brains/featured",
+            "type": "video",
+            "level": "everyone"
         }
     ]
 }

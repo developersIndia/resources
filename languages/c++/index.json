@@ -115,10 +115,10 @@
             "level": "advanced"
         },
         {
-            "title":"The C++ Iceberg",
-            "url":"https://fouronnes.github.io/cppiceberg/",
-            "level":"advanced",
-            "type":"website"
+            "title": "The C++ Iceberg",
+            "url": "https://fouronnes.github.io/cppiceberg/",
+            "level": "advanced",
+            "type": "website"
         }
     ]
 }

@@ -67,10 +67,10 @@
             "level": "everyone"
         },
         {
-            "title":"Structure and Interpretation of Computer Programs by Harold Abelson, Gerald Jay Sussman, and Julie Sussman",
-            "url":"https://github.com/sarabander/sicp-pdf",
-            "level":"everyone",
-            "type":"book"
+            "title": "Structure and Interpretation of Computer Programs by Harold Abelson, Gerald Jay Sussman, and Julie Sussman",
+            "url": "https://github.com/sarabander/sicp-pdf",
+            "level": "everyone",
+            "type": "book"
         }
     ]
 }
