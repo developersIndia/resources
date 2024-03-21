@@ -56,6 +56,12 @@
             "url": "https://cpu.land/",
             "level": "everyone",
             "type": "website"
+        },
+        {
+            "title":"GPS - Understanding positioning method used by GPS",
+            "url":"https://ciechanow.ski/gps/",
+            "type":"article",
+            "level":"everyone"
         }
     ]
 }
