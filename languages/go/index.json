@@ -23,6 +23,12 @@
       "review": [
         "Gophercises has a lot of exercises to practice Golang as well as videos to master a lot of intricate concepts in Go."
       ]
+    },
+    {
+      "title": "Learn Go with Tests",
+      "url": "https://quii.gitbook.io/learn-go-with-tests",
+      "level": "everyone",
+      "type": "website"
     }
   ]
 }

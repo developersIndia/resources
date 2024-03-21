@@ -41,6 +41,12 @@
             "url": "https://sgfin.github.io/learning-resources/",
             "type": "article",
             "level": "everyone"
+        },
+        {
+            "title": "Introduction to Machine Learning Interviews Book (Chip Huyen)",
+            "url": "https://huyenchip.com/ml-interviews-book/",
+            "type": "book",
+            "level": "everyone"
         }
     ]
 }

@@ -35,7 +35,24 @@
             "url": "https://www.youtube.com/watch?v=GFQaEYEc8_8",
             "type": "video",
             "level": "everyone"
+        },
+        {
+            "title": "SQL Teaching",
+            "url": "https://www.sqlteaching.com/",
+            "type": "website",
+            "level": "beginner"
+        },
+        {
+            "title": "datalemur - SQL Tutorial for Data Scientists & Data Analysts",
+            "url": "https://datalemur.com/sql-tutorial",
+            "level": "everyone",
+            "type": "website"
+        },
+        {
+            "title": "Modern SQL: A lot has changed since SQL-92",
+            "url": "https://modern-sql.com/",
+            "level": "everyone",
+            "type": "website"
         }
-        
     ]
 }

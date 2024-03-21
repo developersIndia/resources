@@ -107,6 +107,18 @@
             "url": "https://docs.rs/rust_design_patterns/0.10.0/rust_design_patterns/",
             "type": "website",
             "level": "advanced"
+        },
+        {
+            "title": "A half-hour to learn Rust",
+            "url": "https://fasterthanli.me/articles/a-half-hour-to-learn-rust",
+            "level": "everyone",
+            "type": "article"
+        },
+        {
+            "title": "Rust Language Cheat Sheet",
+            "url": "https://cheats.rs/",
+            "type": "cheatsheet",
+            "level": "everyone"
         }
     ]
 }

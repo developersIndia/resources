@@ -1,6 +1,5 @@
 {
     "resources": [
-    
         {
             "title": "The Missing Semester of Your CS Education",
             "url": "https://missing.csail.mit.edu/",
@@ -54,6 +53,24 @@
             "url": "https://cse.unl.edu/~cbourke/ComputerScienceThree.pdf",
             "type": "book",
             "level": "advanced"
+        },
+        {
+            "title": "Great Ideas in Theoretical Computer Science",
+            "url": "https://www.cs251.com/",
+            "level": "everyone",
+            "type": "course"
+        },
+        {
+            "title": "Understanding Computation - From Simple Machines to Impossible Programs (Tom Stuart)",
+            "url": "https://computationbook.com/",
+            "type": "book",
+            "level": "everyone"
+        },
+        {
+            "title": "Structure and Interpretation of Computer Programs by Harold Abelson, Gerald Jay Sussman, and Julie Sussman",
+            "url": "https://github.com/sarabander/sicp-pdf",
+            "level": "everyone",
+            "type": "book"
         }
     ]
 }
