@@ -47,6 +47,12 @@
             "url": "https://huyenchip.com/ml-interviews-book/",
             "type": "book",
             "level": "everyone"
+        },
+        {
+            "title": "An Introduction to Statistical Learning",
+            "url": "https://www.statlearning.com/",
+            "type": "book",
+            "level": "everyone"
         }
     ]
 }
