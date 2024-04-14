@@ -65,7 +65,8 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/HarshitJoshi9152"><img src="https://avatars.githubusercontent.com/u/37842304?v=4?s=100" width="100px;" alt="Harshit"/><br /><sub><b>Harshit</b></sub></a><br /><a href="#content-HarshitJoshi9152" title="Content">🖋</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://gsolanki.vercel.app"><img src="https://avatars.githubusercontent.com/u/34185908?v=4?s=100" width="100px;" alt="Solanki Gaurav"/><br /><sub><b>Solanki Gaurav</b></sub></a><br /><a href="#content-gau2107" title="Content">🖋</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/triach-rold"><img src="https://avatars.githubusercontent.com/u/156170660?v=4?s=100" width="100px;" alt="Triach Rold"/><br /><sub><b>Triach Rold</b></sub></a><br /><a href="#content-triach-rold" title="Content">🖋</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://reddit.com/u/LinearArray"><img src="https://i.imgur.com/NTzygIr.jpeg" width="100px;" alt="LinearArray"/><br /><sub><b>LinearArray</b></sub></a><br /><a href="#content-linear-array" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/LinearArray"><img src="https://github.com/LinearArray?s=100" width="100px;" alt="LinearArray"/><br /><sub><b>LinearArray</b></sub></a><br /><a href="#content-lineararray" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/yashasnadigsyn"><img src="https://avatars.githubusercontent.com/u/103478177?v=4?s=100" width="100px;" alt="Yashas Nadig"/><br /><sub><b>Yashas Nadig</b></sub></a><br /><a href="#content-yashasnadigsyn" title="Content">🖋</a></td>
     </tr>
   </tbody>
 </table>
