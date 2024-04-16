@@ -181,17 +181,17 @@
             "title": "450 DSA Cracker",
             "url": "https://450dsa.com/",
             "type": "website",
-            "level":"everyone",
+            "level": "everyone",
             "reviews": [
                 "450 DSA is a open-source project on github made to keep track of your DSA problems.",
-                "The question set gives you a general idea of the types of problems that can be asked in a interview."
+                "The question set gives you a general idea of the types of problems that can be asked in an interview."
             ]
         },
         {
             "title": "Hello Algo",
             "url": "https://www.hello-algo.com/",
-            "type":"website",
-            "level": "everyone",
+            "type": "website",
+            "level": "everyone"
         }
     ]
 }
