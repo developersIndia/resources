@@ -176,6 +176,22 @@
             "url": "https://www.comp.nus.edu.sg/~stevenha/myteaching/competitive_programming/cp1.pdf",
             "type": "book",
             "level": "intermediate"
+        },
+        {
+            "title": "450 DSA Cracker",
+            "url": "https://450dsa.com/",
+            "type": "website",
+            "level":"everyone",
+            "reviews": [
+                "450 DSA is a open-source project on github made to keep track of your DSA problems.",
+                "The question set gives you a general idea of the types of problems that can be asked in a interview."
+            ]
+        },
+        {
+            "title": "Hello Algo",
+            "url": "https://www.hello-algo.com/",
+            "type":"website",
+            "level": "everyone",
         }
     ]
 }
