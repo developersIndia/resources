@@ -11,6 +11,16 @@
             "url": "https://ohshitgit.com/",
             "type": "website",
             "level": "everyone"
+        },
+        {
+            "title": "Pro Git Book",
+            "url": "https://git-scm.com/book/en/v2",
+            "type":"book",
+            "level": "everyone",
+            "reviews": [
+                "The Official Pro Git book available for free to download or read online",
+                "This book teaches the whole workflow of git and git commands in detail"
+            ]      
         }
     ]
 }
