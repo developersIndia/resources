@@ -101,6 +101,12 @@
             "url": "https://www.taniarascia.com/es6-syntax-and-feature-overview/",
             "type": "article",
             "level": "everyone"
+        },
+        {
+            "title": "How does React reconciliation works?",
+            "url": "https://www.developerway.com/posts/reconciliation-in-react",
+            "type":"article",
+            "level": "everyone"
         }
     ]
 }
