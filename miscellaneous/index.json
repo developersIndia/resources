@@ -57,11 +57,21 @@
             "level": "everyone",
             "type": "website"
         },
+
         {
             "title": "GPS - Understanding positioning method used by GPS",
             "url": "https://ciechanow.ski/gps/",
             "type": "article",
             "level": "everyone"
+        },
+
+        {
+            "title": "ApyHub - Catalog of 100+ Utility APIs",
+            "url": "https://apyhub.com/catalog",
+            "type": "website",
+            "level": "everyone"
         }
+
+        
     ]
 }
