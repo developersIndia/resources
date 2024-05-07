@@ -35,6 +35,12 @@
             "url": "https://karpathy.ai/zero-to-hero.html",
             "type": "course",
             "level": "everyone"
+        }, 
+        {
+            "title": "AI by hand",
+            "URL": "https://aibyhand.substack.com/",
+            "type": "book",
+            "level": "advanced"
         }
     ]
 }
