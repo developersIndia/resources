@@ -38,9 +38,9 @@
         }, 
         {
             "title": "AI by hand",
-            "URL": "https://aibyhand.substack.com/",
+            "url": "https://aibyhand.substack.com/",
             "type": "book",
-            "level": "advanced"
+            "level": "intermediate"
         }
     ]
 }
