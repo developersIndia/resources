@@ -63,5 +63,11 @@
             "type": "article",
             "level": "everyone"
         }
+        {
+            "title":"Developer Relations Whitepaper",
+            "url":"https://github.com/rohitg00/devrel-whitepaper",
+            "type":"github",
+            "level":"everyone"
+        }
     ]
 }
