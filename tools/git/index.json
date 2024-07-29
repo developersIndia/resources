@@ -7,6 +7,12 @@
             "level": "everyone"
         },
         {
+            "title": "Oh My Git!",
+            "url": "https://ohmygit.org/",
+            "type": "website",
+            "level": "everyone"
+        },
+        {
             "title": "Oh shit, git!",
             "url": "https://ohshitgit.com/",
             "type": "website",
