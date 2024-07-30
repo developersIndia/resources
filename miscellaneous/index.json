@@ -62,6 +62,12 @@
             "url": "https://ciechanow.ski/gps/",
             "type": "article",
             "level": "everyone"
+        },
+        {
+            "title":"Reverse Engineering For Everyone!",
+            "url":"https://0xinfection.github.io/reversing/",
+            "type":"website",
+            "level":"everyone"
         }
     ]
 }

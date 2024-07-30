@@ -71,6 +71,18 @@
             "url": "https://github.com/sarabander/sicp-pdf",
             "level": "everyone",
             "type": "book"
+        },
+        {
+            "title":"Algorithms for Modern Hardware",
+            "url":"https://en.algorithmica.org/hpc/",
+            "type":"book",
+            "level":"intermediate"
+        },
+        {
+            "title":"Computer Science by Example",
+            "url":"https://cscx.org/",
+            "type":"website",
+            "level":"everyone"
         }
     ]
 }
