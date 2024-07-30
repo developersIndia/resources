@@ -1,0 +1,16 @@
+{
+    "resources":[
+        {
+            "title": "Decentralized Thoughts",
+            "url": "https://decentralizedthoughts.github.io/",
+            "type": "website",
+            "level": "everyone"
+        },
+        {
+            "title":"A Distributed Systems Reading List",
+            "url":"https://dancres.github.io/Pages/",
+            "type":"website",
+            "level":"everyone"
+        }
+    ]
+}
