@@ -35,6 +35,18 @@
             "url": "https://karpathy.ai/zero-to-hero.html",
             "type": "course",
             "level": "everyone"
+        },
+        {
+            "title": "Dive into Deep Learning",
+            "url": "https://d2l.ai/",
+            "type": "book",
+            "level": "everyone"
+        },
+        {
+            "title": "Deep Learning Book",
+            "url": "https://www.deeplearningbook.org/",
+            "type": "book",
+            "level": "intermediate"
         }
     ]
 }
