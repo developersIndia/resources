@@ -53,6 +53,12 @@
             "url": "https://www.statlearning.com/",
             "type": "book",
             "level": "everyone"
+        },
+        {
+            "title": "Interpretable Machine Learning",
+            "url": "https://christophm.github.io/interpretable-ml-book/",
+            "type": "book",
+            "level": "intermediate"
         }
     ]
 }
