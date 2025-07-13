@@ -1,0 +1,16 @@
+{
+    "resources": [
+        {
+            "title": "ReactJS Full Course | Build & Deploy a Word Memory App w/ ReactJS & FantaCSS",
+            "url": "https://www.youtube.com/watch?v=G-v9W4VpAj0",
+            "type": "video",
+            "level": "beginner"
+        },
+        {
+            "title": "React.js Online Editor",
+            "url": "https://nextleap.app/online-compiler/reactjs-programming",
+            "type": "site",
+            "level": "beginner"
+        }
+    ]
+}
