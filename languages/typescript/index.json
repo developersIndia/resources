@@ -77,6 +77,15 @@
             "url": "https://www.tsmean.com/articles/testing/typescript-testing-in-depth/#typescript-unit-testing",
             "type": "article",
             "level": "intermediate"
+        },
+        {
+            "title": "The Concise TypeScript Book",
+            "url": "https://github.com/gibbok/typescript-book",
+            "type": "book",
+            "level": "everyone",
+            "reviews": [
+                "A free and open-source TypeScript book covering fundamentals through advanced concepts."
+            ]
         }
     ]
 }
