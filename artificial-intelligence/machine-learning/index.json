@@ -59,6 +59,12 @@
             "url": "https://christophm.github.io/interpretable-ml-book/",
             "type": "book",
             "level": "intermediate"
+        },
+        {
+            "title": "Reading a Hindi–English question-answering dataset: conditional and joint probability",
+            "url": "https://huggingface.co/datasets/lmo0317/hindi-probability-minimal-pairs",
+            "type": "article",
+            "level": "beginner"
         }
     ]
 }
